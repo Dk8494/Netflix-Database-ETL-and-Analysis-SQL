@@ -1,0 +1,323 @@
+release_month,listed_name,total_releases
+NULL,"Kids' TV",132
+10,Dramas,125
+3,Dramas,112
+NULL,"International TV Shows",97
+NULL,"Crime TV Shows",93
+11,Dramas,89
+4,Dramas,85
+7,Dramas,84
+1,Dramas,83
+3,Comedies,82
+10,Comedies,80
+NULL,"British TV Shows",79
+2,Dramas,76
+11,Comedies,76
+8,Comedies,74
+11,"Action & Adventure",71
+5,Comedies,70
+8,Dramas,70
+9,Dramas,70
+12,Dramas,70
+6,Dramas,67
+4,Comedies,64
+5,Dramas,64
+10,"Action & Adventure",62
+12,Documentaries,59
+4,Documentaries,58
+1,Documentaries,56
+8,"Action & Adventure",56
+11,Documentaries,54
+NULL,"TV Comedies",53
+5,Documentaries,53
+9,Comedies,53
+9,Documentaries,53
+7,Documentaries,52
+8,Documentaries,52
+12,"International TV Shows",52
+10,Documentaries,51
+3,Documentaries,50
+7,Comedies,50
+1,Comedies,49
+9,"Action & Adventure",49
+2,Documentaries,48
+6,Documentaries,48
+11,"International TV Shows",48
+3,"Action & Adventure",47
+10,"Children & Family Movies",47
+11,"Children & Family Movies",45
+NULL,"Anime Series",44
+2,Comedies,44
+4,"International TV Shows",44
+6,Comedies,44
+8,"International TV Shows",44
+12,Comedies,44
+10,"International TV Shows",43
+7,"Action & Adventure",42
+7,"International TV Shows",42
+5,"Action & Adventure",40
+5,"International TV Shows",37
+2,"Action & Adventure",36
+3,"International TV Shows",35
+1,"Action & Adventure",34
+12,"Action & Adventure",34
+4,"Action & Adventure",33
+9,"International TV Shows",33
+NULL,"TV Dramas",32
+3,"Children & Family Movies",30
+6,"International TV Shows",30
+NULL,Docuseries,29
+11,"Stand-Up Comedy",29
+6,"Action & Adventure",28
+10,"Horror Movies",27
+8,"Crime TV Shows",26
+8,"Stand-Up Comedy",26
+9,"Children & Family Movies",26
+11,"Crime TV Shows",26
+10,"Stand-Up Comedy",25
+12,"Children & Family Movies",25
+12,"Crime TV Shows",25
+1,"Stand-Up Comedy",24
+6,"Children & Family Movies",24
+12,"Stand-Up Comedy",24
+1,"Children & Family Movies",23
+1,"International TV Shows",23
+1,"Kids' TV",23
+4,"Children & Family Movies",23
+7,"Children & Family Movies",23
+7,"Stand-Up Comedy",23
+3,"Stand-Up Comedy",22
+3,"British TV Shows",21
+9,"Stand-Up Comedy",21
+1,"Horror Movies",20
+2,"Children & Family Movies",20
+8,"Children & Family Movies",20
+10,"British TV Shows",20
+3,"Crime TV Shows",19
+4,"Stand-Up Comedy",19
+5,"Stand-Up Comedy",19
+9,"Horror Movies",19
+10,"Crime TV Shows",19
+NULL,"Reality TV",18
+NULL,"TV Action & Adventure",18
+2,"Crime TV Shows",18
+2,"International TV Shows",18
+9,Docuseries,18
+10,"Kids' TV",18
+4,"Horror Movies",17
+6,"Stand-Up Comedy",17
+9,"Kids' TV",17
+NULL,"Classic & Cult TV",16
+2,"Stand-Up Comedy",16
+5,"Children & Family Movies",16
+5,"Crime TV Shows",16
+2,Docuseries,15
+3,"Horror Movies",15
+8,"Horror Movies",15
+6,"Crime TV Shows",14
+7,"British TV Shows",14
+8,"British TV Shows",14
+8,Docuseries,14
+9,"Crime TV Shows",14
+11,"Classic Movies",14
+NULL,"Romantic TV Shows",13
+1,"Crime TV Shows",13
+6,"Kids' TV",13
+7,"Horror Movies",13
+7,"Kids' TV",13
+9,"British TV Shows",13
+10,Docuseries,13
+11,"Horror Movies",13
+2,"British TV Shows",12
+3,"Classic Movies",12
+3,"International Movies",12
+5,"Horror Movies",12
+11,"Kids' TV",12
+12,"Horror Movies",12
+NULL,"Stand-Up Comedy & Talk Shows",11
+2,"Horror Movies",11
+6,"Horror Movies",11
+11,Docuseries,11
+12,"Kids' TV",11
+3,Docuseries,10
+5,Movies,10
+7,"Crime TV Shows",10
+8,"International Movies",10
+12,"Anime Series",10
+12,Movies,10
+3,"Kids' TV",9
+4,"British TV Shows",9
+4,"Crime TV Shows",9
+4,"Kids' TV",9
+6,"International Movies",9
+7,"Classic Movies",9
+10,"Anime Series",9
+11,"International Movies",9
+12,"Reality TV",9
+4,"Anime Series",8
+11,Movies,8
+12,"British TV Shows",8
+1,Movies,7
+5,"Kids' TV",7
+7,"Anime Series",7
+7,Docuseries,7
+8,"Kids' TV",7
+10,"International Movies",7
+10,"Reality TV",7
+1,Docuseries,6
+3,"Anime Series",6
+4,Docuseries,6
+5,Thrillers,6
+7,"International Movies",6
+8,"Reality TV",6
+11,"Reality TV",6
+12,Docuseries,6
+12,"Music & Musicals",6
+NULL,"TV Horror",5
+1,"British TV Shows",5
+1,"International Movies",5
+3,"TV Comedies",5
+6,Docuseries,5
+6,"TV Dramas",5
+9,"Anime Series",5
+11,"Anime Series",5
+12,"International Movies",5
+1,"Anime Series",4
+1,Thrillers,4
+2,"Anime Series",4
+2,"Kids' TV",4
+2,Movies,4
+4,"International Movies",4
+4,"TV Comedies",4
+5,Docuseries,4
+5,"TV Dramas",4
+6,"Anime Series",4
+6,"British TV Shows",4
+7,Thrillers,4
+9,"International Movies",4
+9,"Reality TV",4
+9,"TV Comedies",4
+10,"Classic Movies",4
+10,Movies,4
+11,"British TV Shows",4
+11,"TV Comedies",4
+1,"Independent Movies",3
+2,"International Movies",3
+3,Movies,3
+3,"Reality TV",3
+3,Thrillers,3
+3,"TV Dramas",3
+4,"TV Dramas",3
+5,"International Movies",3
+5,"Reality TV",3
+5,"Stand-Up Comedy & Talk Shows",3
+5,"TV Comedies",3
+6,Thrillers,3
+7,Movies,3
+7,"TV Comedies",3
+8,"Anime Series",3
+8,Thrillers,3
+8,"TV Comedies",3
+9,"Independent Movies",3
+9,Thrillers,3
+10,"Cult Movies",3
+10,"Stand-Up Comedy & Talk Shows",3
+10,Thrillers,3
+10,"TV Dramas",3
+11,"Cult Movies",3
+11,Thrillers,3
+12,"Stand-Up Comedy & Talk Shows",3
+1,"Classic Movies",2
+2,"TV Action & Adventure",2
+2,"TV Comedies",2
+2,"TV Shows",2
+4,Thrillers,2
+4,"TV Action & Adventure",2
+5,"Anime Series",2
+5,"British TV Shows",2
+5,"Romantic TV Shows",2
+6,"Classic Movies",2
+6,"Independent Movies",2
+6,"Reality TV",2
+6,"Sci-Fi & Fantasy",2
+7,"Sci-Fi & Fantasy",2
+8,"Independent Movies",2
+8,Movies,2
+8,"Sci-Fi & Fantasy",2
+8,"TV Action & Adventure",2
+9,"Classic Movies",2
+9,Movies,2
+9,"Stand-Up Comedy & Talk Shows",2
+10,"TV Comedies",2
+11,"Anime Features",2
+11,"Independent Movies",2
+11,"Music & Musicals",2
+11,"TV Dramas",2
+12,Thrillers,2
+12,"TV Comedies",2
+12,"TV Shows",2
+NULL,Movies,1
+NULL,"TV Sci-Fi & Fantasy",1
+1,"Anime Features",1
+1,"Classic & Cult TV",1
+1,"Reality TV",1
+1,"TV Dramas",1
+1,"TV Shows",1
+2,"Classic Movies",1
+2,"Independent Movies",1
+2,"Music & Musicals",1
+2,"Reality TV",1
+2,"Sci-Fi & Fantasy",1
+2,"Stand-Up Comedy & Talk Shows",1
+2,Thrillers,1
+3,"Anime Features",1
+3,"Independent Movies",1
+3,"Music & Musicals",1
+3,"Stand-Up Comedy & Talk Shows",1
+3,"TV Action & Adventure",1
+4,"Classic Movies",1
+4,"Independent Movies",1
+4,Movies,1
+4,"Romantic TV Shows",1
+4,"Stand-Up Comedy & Talk Shows",1
+4,"TV Horror",1
+4,"TV Shows",1
+5,"Classic & Cult TV",1
+5,"Cult Movies",1
+5,"Sports Movies",1
+5,"TV Shows",1
+6,"Anime Features",1
+6,"Music & Musicals",1
+6,"Romantic Movies",1
+6,"TV Comedies",1
+6,"TV Shows",1
+7,"Anime Features",1
+7,"Independent Movies",1
+7,"Reality TV",1
+7,"Stand-Up Comedy & Talk Shows",1
+7,"TV Action & Adventure",1
+7,"TV Shows",1
+8,"Anime Features",1
+8,"Classic Movies",1
+8,"Stand-Up Comedy & Talk Shows",1
+9,"Anime Features",1
+9,"Cult Movies",1
+9,"Romantic TV Shows",1
+9,"TV Action & Adventure",1
+9,"TV Horror",1
+10,"Anime Features",1
+10,"Music & Musicals",1
+10,"Romantic TV Shows",1
+10,"Sci-Fi & Fantasy",1
+10,"TV Action & Adventure",1
+11,"Romantic TV Shows",1
+11,"Sci-Fi & Fantasy",1
+11,"Spanish-Language TV Shows",1
+11,"Stand-Up Comedy & Talk Shows",1
+11,"TV Horror",1
+11,"TV Shows",1
+12,"Anime Features",1
+12,"Classic & Cult TV",1
+12,"Romantic Movies",1
+12,"Sci-Fi & Fantasy",1
+12,"TV Dramas",1

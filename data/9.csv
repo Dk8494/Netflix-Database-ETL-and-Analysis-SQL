@@ -1,0 +1,1001 @@
+country_name,listed_name,total_shows,average_rating
+NULL,"International TV Shows",129,2.2868
+NULL,Documentaries,50,3.1800
+NULL,"Kids' TV",46,5.4130
+NULL,"Children & Family Movies",31,6.5484
+NULL,"Crime TV Shows",28,3.4286
+NULL,"Stand-Up Comedy",25,3.7600
+NULL,Docuseries,19,4.2632
+NULL,Movies,18,4.1667
+NULL,Comedies,17,2.4118
+NULL,Dramas,16,2.9375
+NULL,"British TV Shows",11,3.6364
+NULL,"Reality TV",10,3.1000
+NULL,"Anime Series",6,4.0000
+NULL,"TV Shows",4,2.5000
+NULL,"International Movies",3,4.6667
+NULL,"Music & Musicals",3,3.6667
+NULL,"Action & Adventure",2,7.0000
+NULL,"TV Comedies",2,4.5000
+NULL,"Stand-Up Comedy & Talk Shows",2,2.5000
+NULL,"Horror Movies",1,4.0000
+Argentina,Dramas,9,4.2222
+Argentina,"Stand-Up Comedy",7,3.5714
+Argentina,"International TV Shows",5,3.4000
+Argentina,"Crime TV Shows",4,4.0000
+Argentina,Comedies,3,9.3333
+Argentina,Documentaries,3,2.6667
+Argentina,"Kids' TV",3,2.3333
+Argentina,"Action & Adventure",2,8.0000
+Argentina,"Children & Family Movies",1,5.0000
+Argentina,"Horror Movies",1,4.0000
+"Argentina, Brazil, France, Poland, Germany, Denmark",Dramas,1,1.0000
+"Argentina, Chile",Dramas,1,1.0000
+"Argentina, Chile, Peru",Comedies,1,12.0000
+"Argentina, France",Dramas,1,4.0000
+"Argentina, France, Germany",Dramas,1,4.0000
+"Argentina, Italy",Dramas,1,4.0000
+"Argentina, Italy",Documentaries,1,1.0000
+"Argentina, Spain",Comedies,3,4.0000
+"Argentina, Spain",Dramas,2,4.0000
+"Argentina, Spain","Classic Movies",1,4.0000
+"Argentina, Spain","International TV Shows",1,4.0000
+"Argentina, United States",Dramas,1,4.0000
+"Argentina, United States, Mexico",Docuseries,1,4.0000
+"Argentina, Uruguay, Spain, France",Dramas,1,4.0000
+Australia,"International TV Shows",12,3.0833
+Australia,"Crime TV Shows",8,5.2500
+Australia,"Kids' TV",6,4.0000
+Australia,Docuseries,6,3.6667
+Australia,Dramas,5,6.8000
+Australia,"Children & Family Movies",5,5.2000
+Australia,Comedies,3,5.0000
+Australia,"Action & Adventure",3,5.0000
+Australia,"Reality TV",3,3.6667
+Australia,Movies,3,2.3333
+Australia,Documentaries,3,2.0000
+Australia,"Classic Movies",2,9.0000
+Australia,"International Movies",2,3.5000
+Australia,"TV Comedies",2,2.5000
+Australia,"Cult Movies",1,12.0000
+Australia,Thrillers,1,6.0000
+Australia,"British TV Shows",1,5.0000
+Australia,"Horror Movies",1,4.0000
+Australia,"Stand-Up Comedy",1,4.0000
+"Australia, Armenia, Japan, Jordan, Mexico, Mongolia, New Zealand, Philippines, South Africa, Sweden, United States, Uruguay",Documentaries,1,4.0000
+"Australia, Canada","Children & Family Movies",1,3.0000
+"Australia, Canada","Kids' TV",1,3.0000
+"Australia, France",Dramas,1,6.0000
+"Australia, France, Ireland","Children & Family Movies",1,2.0000
+"Australia, India","Action & Adventure",1,5.0000
+"Australia, Iraq",Documentaries,1,4.0000
+"Australia, New Zealand","Kids' TV",1,5.0000
+"Australia, New Zealand, United States","TV Dramas",1,4.0000
+"Australia, United Arab Emirates","Children & Family Movies",1,7.0000
+"Australia, United Arab Emirates",Dramas,1,4.0000
+"Australia, United Arab Emirates","Horror Movies",1,4.0000
+"Australia, United Kingdom, Canada","Action & Adventure",1,6.0000
+"Australia, United Kingdom, United Arab Emirates, Canada",Dramas,1,6.0000
+"Australia, United Kingdom, United States, New Zealand, Italy, France",Documentaries,1,12.0000
+"Australia, United States",Documentaries,2,3.0000
+"Australia, United States","Children & Family Movies",1,8.0000
+"Australia, United States",Dramas,1,6.0000
+"Australia, United States","International Movies",1,6.0000
+"Australia, United States","Kids' TV",1,3.0000
+"Australia, United States",Docuseries,1,1.0000
+Austria,Dramas,1,4.0000
+Austria,Documentaries,1,1.0000
+"Austria, Czech Republic",Dramas,1,12.0000
+"Austria, Iraq, United States",Documentaries,1,4.0000
+"Austria, United States",Documentaries,1,4.0000
+Bangladesh,Dramas,1,1.0000
+Belgium,"Crime TV Shows",3,3.0000
+Belgium,Documentaries,1,12.0000
+Belgium,"International TV Shows",1,4.0000
+"Belgium, France",Dramas,3,7.3333
+"Belgium, India, Australia","Action & Adventure",1,6.0000
+"Belgium, Ireland, Netherlands, Germany, Afghanistan",Documentaries,1,4.0000
+"Belgium, Luxembourg, France",Dramas,1,10.0000
+"Belgium, Netherlands",Dramas,1,6.0000
+"Belgium, Netherlands","Crime TV Shows",1,4.0000
+"Belgium, United Kingdom, United States",Dramas,1,4.0000
+Brazil,"International TV Shows",8,4.0000
+Brazil,Documentaries,8,3.5000
+Brazil,Comedies,7,4.7143
+Brazil,Dramas,6,6.8333
+Brazil,"Stand-Up Comedy",6,3.5000
+Brazil,"Crime TV Shows",4,4.0000
+Brazil,"Action & Adventure",3,6.6667
+Brazil,"Children & Family Movies",3,5.3333
+Brazil,Docuseries,2,4.5000
+Brazil,"Kids' TV",1,5.0000
+"Brazil, Canada",Comedies,1,12.0000
+"Brazil, France",Dramas,2,8.5000
+"Brazil, India, China, United States",Documentaries,1,1.0000
+"Brazil, Netherlands, United States, Colombia, Austria, Germany",Dramas,1,5.0000
+"Brazil, United States",Documentaries,1,1.0000
+Bulgaria,"Horror Movies",1,6.0000
+"Bulgaria, United States","Action & Adventure",2,6.0000
+"Bulgaria, United States","International Movies",1,6.0000
+"Bulgaria, United States, Spain, Canada","International Movies",1,6.0000
+Cambodia,"Action & Adventure",1,4.0000
+"Cambodia, United States",Dramas,1,4.0000
+Canada,Comedies,18,4.8889
+Canada,"Children & Family Movies",17,6.1176
+Canada,"Kids' TV",16,5.9375
+Canada,Documentaries,16,3.3750
+Canada,Dramas,14,4.0000
+Canada,"International TV Shows",12,3.4167
+Canada,"Action & Adventure",7,6.0000
+Canada,Docuseries,7,3.7143
+Canada,"Crime TV Shows",7,2.2857
+Canada,"Horror Movies",6,5.3333
+Canada,Movies,3,9.3333
+Canada,"TV Comedies",3,3.0000
+Canada,"TV Dramas",3,2.3333
+Canada,"International Movies",2,6.5000
+Canada,"Stand-Up Comedy",2,6.5000
+Canada,"Reality TV",2,5.0000
+Canada,Thrillers,2,2.5000
+Canada,"Classic & Cult TV",1,4.0000
+Canada,"TV Sci-Fi & Fantasy",1,1.0000
+"Canada, Australia","Kids' TV",2,7.0000
+"Canada, Brazil","Kids' TV",1,7.0000
+"Canada, France","Crime TV Shows",1,11.0000
+"Canada, France, Italy, Morocco, United States",Documentaries,1,1.0000
+"Canada, Germany, France, United States",Comedies,1,6.0000
+"Canada, Germany, South Africa","Crime TV Shows",1,1.0000
+"Canada, India",Dramas,1,1.0000
+"Canada, India, Thailand, United States, United Arab Emirates",Documentaries,1,4.0000
+"Canada, Ireland, United States",Documentaries,1,4.0000
+"Canada, Japan, Netherlands","International TV Shows",1,1.0000
+"Canada, Japan, United States","Children & Family Movies",1,9.0000
+"Canada, Luxembourg","Action & Adventure",1,6.0000
+"Canada, Mexico, Germany, South Africa","Action & Adventure",1,6.0000
+"Canada, Norway",Dramas,1,4.0000
+"Canada, Spain",Dramas,1,4.0000
+"Canada, Spain, France","Independent Movies",1,6.0000
+"Canada, United Kingdom","Kids' TV",1,3.0000
+"Canada, United Kingdom","Crime TV Shows",1,1.0000
+"Canada, United Kingdom, Netherlands",Documentaries,1,12.0000
+"Canada, United Kingdom, United States",Comedies,1,4.0000
+"Canada, United Kingdom, United States","TV Horror",1,4.0000
+"Canada, United Kingdom, United States","Kids' TV",1,3.0000
+"Canada, United States",Dramas,6,6.3333
+"Canada, United States",Documentaries,5,3.8000
+"Canada, United States",Comedies,4,6.7500
+"Canada, United States","Kids' TV",4,6.0000
+"Canada, United States","Children & Family Movies",3,5.0000
+"Canada, United States","Horror Movies",3,4.3333
+"Canada, United States","Crime TV Shows",2,5.5000
+"Canada, United States","Action & Adventure",1,6.0000
+"Canada, United States",Docuseries,1,4.0000
+"Canada, United States","International Movies",1,4.0000
+"Canada, United States","Romantic TV Shows",1,4.0000
+"Canada, United States","TV Action & Adventure",1,4.0000
+"Canada, United States","Classic & Cult TV",1,1.0000
+"Canada, United States","International TV Shows",1,1.0000
+"Canada, United States","TV Comedies",1,1.0000
+"Canada, United States, France","Kids' TV",1,5.0000
+"Canada, United States, India, United Kingdom",Comedies,1,6.0000
+"Canada, United States, United Kingdom",Dramas,1,6.0000
+"Canada, United States, United Kingdom",Documentaries,1,1.0000
+Chile,Comedies,4,2.5000
+Chile,"International TV Shows",3,4.0000
+Chile,"Stand-Up Comedy",3,4.0000
+Chile,"Children & Family Movies",1,5.0000
+Chile,"International Movies",1,4.0000
+"Chile, Argentina",Dramas,1,4.0000
+"Chile, Argentina, France, Spain, United States",Dramas,1,6.0000
+"Chile, France",Dramas,1,4.0000
+"Chile, Peru",Dramas,1,4.0000
+"Chile, Spain, Argentina, Germany",Dramas,1,12.0000
+"Chile, United States, France",Dramas,1,12.0000
+China,"International TV Shows",24,2.6667
+China,"Action & Adventure",6,3.0000
+China,Comedies,5,3.4000
+China,Dramas,4,3.2500
+China,"Crime TV Shows",3,3.0000
+China,"International Movies",3,2.0000
+China,"Children & Family Movies",1,11.0000
+China,"Kids' TV",1,7.0000
+China,Docuseries,1,2.0000
+"China, Canada, United States","Children & Family Movies",1,5.0000
+"China, Germany, India, United States",Documentaries,1,1.0000
+"China, Hong Kong","Action & Adventure",12,5.0833
+"China, Hong Kong",Comedies,1,4.0000
+"China, Hong Kong","Crime TV Shows",1,4.0000
+"China, Hong Kong",Dramas,1,1.0000
+"China, Hong Kong, United States","Action & Adventure",1,10.0000
+"China, India, Nepal","Action & Adventure",1,5.0000
+"China, Japan","Anime Features",1,5.0000
+"China, Morocco, Hong Kong","Action & Adventure",1,4.0000
+"China, South Korea, United States",Documentaries,1,12.0000
+"China, Taiwan","International Movies",1,5.0000
+"China, United Kingdom","British TV Shows",1,3.0000
+"China, United States","Action & Adventure",1,1.0000
+"China, United States, Australia",Comedies,1,5.0000
+"China, United States, United Kingdom","Children & Family Movies",1,8.0000
+Colombia,"Crime TV Shows",12,3.2500
+Colombia,Comedies,4,3.2500
+Colombia,"International TV Shows",4,1.7500
+Colombia,"Stand-Up Comedy",3,4.0000
+Colombia,Documentaries,1,5.0000
+Colombia,Dramas,1,4.0000
+"Colombia, Mexico",Comedies,1,1.0000
+"Colombia, Mexico, United States","Crime TV Shows",1,1.0000
+"Colombia, Mexico, United States","International TV Shows",1,1.0000
+"Colombia, United States","International TV Shows",1,1.0000
+Croatia,"International TV Shows",1,4.0000
+"Croatia, Slovenia, Serbia, Montenegro",Dramas,1,12.0000
+"Cyprus, Austria, Thailand","Kids' TV",1,2.0000
+"Czech Republic, France",Documentaries,1,4.0000
+"Czech Republic, Slovakia",Dramas,1,1.0000
+"Czech Republic, United Kingdom, France","Action & Adventure",1,6.0000
+"Czech Republic, United States",Dramas,1,4.0000
+"Czech Republic, United States",Docuseries,1,1.0000
+Denmark,"International TV Shows",4,3.2500
+Denmark,Dramas,3,5.6667
+Denmark,"Kids' TV",2,5.0000
+Denmark,"Crime TV Shows",1,4.0000
+Denmark,Documentaries,1,4.0000
+Denmark,"Children & Family Movies",1,2.0000
+"Denmark, Brazil, France, Portugal, Sweden",Dramas,1,4.0000
+"Denmark, China","Action & Adventure",1,11.0000
+"Denmark, France, Italy, Belgium, Netherlands","International Movies",1,6.0000
+"Denmark, France, Poland",Dramas,1,1.0000
+"Denmark, France, United States, Sweden","Cult Movies",1,6.0000
+"Denmark, Germany, Belgium, United Kingdom, France",Dramas,1,12.0000
+"Denmark, Germany, Belgium, United Kingdom, France, Sweden",Dramas,1,4.0000
+"Denmark, Indonesia, Finland, Norway, United Kingdom, Israel, France, United States, Germany, Netherlands",Documentaries,1,10.0000
+"Denmark, Singapore, Canada, United States","Kids' TV",1,11.0000
+"Denmark, Spain",Documentaries,1,1.0000
+"Denmark, Sweden, Israel, United States",Documentaries,1,4.0000
+"Denmark, United Kingdom",Dramas,1,12.0000
+"Denmark, United Kingdom, South Africa, Sweden, Belgium",Dramas,1,6.0000
+"Denmark, United States",Documentaries,1,4.0000
+"Denmark, United States","International TV Shows",1,4.0000
+"Denmark, Zimbabwe",Documentaries,1,12.0000
+"Dominican Republic",Documentaries,1,1.0000
+Egypt,Comedies,22,1.8182
+Egypt,Dramas,9,2.3333
+Egypt,"Action & Adventure",7,3.5714
+Egypt,"International TV Shows",7,2.7143
+Egypt,"Crime TV Shows",1,1.0000
+Egypt,"Horror Movies",1,1.0000
+Egypt,"International Movies",1,1.0000
+Egypt,"Children & Family Movies",1,1.0000
+"Egypt, Austria, United States",Dramas,1,1.0000
+"Egypt, France",Dramas,1,1.0000
+Finland,"Kids' TV",1,2.0000
+"Finland, France","Crime TV Shows",1,4.0000
+"Finland, Germany","Crime TV Shows",1,4.0000
+"Finland, Germany, Belgium","Action & Adventure",1,4.0000
+"Finland, Sweden, Norway, Latvia, Germany",Dramas,1,4.0000
+France,Dramas,15,4.4000
+France,"Kids' TV",13,4.7692
+France,"Crime TV Shows",11,4.0000
+France,Comedies,11,3.3636
+France,"International TV Shows",11,3.1818
+France,Documentaries,10,2.4000
+France,"Action & Adventure",5,3.4000
+France,"Stand-Up Comedy",4,4.0000
+France,"Children & Family Movies",2,8.0000
+France,Docuseries,2,2.5000
+France,"International Movies",1,4.0000
+"France, Belgium",Comedies,8,3.6250
+"France, Belgium",Dramas,6,4.3333
+"France, Belgium","Children & Family Movies",3,6.3333
+"France, Belgium","Action & Adventure",3,6.0000
+"France, Belgium","Crime TV Shows",2,4.0000
+"France, Belgium","Cult Movies",1,12.0000
+"France, Belgium, China, United States",Dramas,1,6.0000
+"France, Belgium, Spain",Dramas,1,14.0000
+"France, Canada","Children & Family Movies",2,7.5000
+"France, Canada","International TV Shows",1,4.0000
+"France, Canada, Belgium","Action & Adventure",1,8.0000
+"France, China, Canada","Action & Adventure",1,10.0000
+"France, China, Japan, United States","Children & Family Movies",1,8.0000
+"France, Germany",Docuseries,1,1.0000
+"France, Germany, Czech Republic, Belgium",Dramas,1,6.0000
+"France, Germany, Switzerland",Dramas,1,6.0000
+"France, Iran, United States",Dramas,1,6.0000
+"France, Luxembourg, Canada","Children & Family Movies",1,8.0000
+"France, Luxembourg, United States","Children & Family Movies",1,5.0000
+"France, Morocco",Dramas,1,4.0000
+"France, Netherlands, Singapore",Dramas,1,4.0000
+"France, Netherlands, South Africa, Finland",Documentaries,1,1.0000
+"France, Poland",Dramas,1,10.0000
+"France, Qatar",Dramas,1,4.0000
+"France, Senegal, Belgium",Dramas,1,1.0000
+"France, South Korea, Japan","Kids' TV",1,7.0000
+"France, South Korea, Japan",Movies,1,7.0000
+"France, Switzerland, Spain, United States, United Arab Emirates",Documentaries,1,9.0000
+"France, United Kingdom","Kids' TV",1,3.0000
+"France, United Kingdom, India",Dramas,1,12.0000
+"France, United Kingdom, United States","Kids' TV",1,3.0000
+"France, United States","Horror Movies",1,10.0000
+"France, United States","Kids' TV",1,7.0000
+"France, United States","Action & Adventure",1,4.0000
+"France, United States","Crime TV Shows",1,1.0000
+"France, United States, Canada","Kids' TV",1,3.0000
+"France, United States, Mexico",Dramas,1,6.0000
+Georgia,Documentaries,1,5.0000
+"Georgia, Germany, France",Dramas,1,1.0000
+Germany,Dramas,9,7.1111
+Germany,Comedies,6,5.6667
+Germany,"Children & Family Movies",6,2.5000
+Germany,"Crime TV Shows",5,4.0000
+Germany,Documentaries,5,3.2000
+Germany,"Action & Adventure",2,5.0000
+Germany,"International TV Shows",2,4.0000
+Germany,"Stand-Up Comedy",2,4.0000
+Germany,"Horror Movies",2,3.5000
+Germany,"International Movies",1,4.0000
+"Germany, Australia","Kids' TV",1,7.0000
+"Germany, Australia",Dramas,1,5.0000
+"Germany, Belgium",Documentaries,1,5.0000
+"Germany, Canada, United States",Dramas,1,6.0000
+"Germany, France, Luxembourg, United Kingdom, United States",Dramas,1,6.0000
+"Germany, France, Russia",Docuseries,1,5.0000
+"Germany, Italy",Documentaries,1,1.0000
+"Germany, Jordan, Netherlands",Comedies,1,1.0000
+"Germany, Sri Lanka",Documentaries,1,2.0000
+"Germany, United Kingdom","Children & Family Movies",1,8.0000
+"Germany, United Kingdom",Comedies,1,6.0000
+"Germany, United Kingdom, United States","Action & Adventure",1,8.0000
+"Germany, United States","Action & Adventure",2,6.0000
+"Germany, United States","Children & Family Movies",1,9.0000
+"Germany, United States",Dramas,1,6.0000
+"Germany, United States","Crime TV Shows",1,4.0000
+"Germany, United States, Canada",Comedies,1,10.0000
+"Germany, United States, Canada",Dramas,1,4.0000
+"Germany, United States, Hong Kong, Singapore","Action & Adventure",1,6.0000
+"Germany, United States, Italy","Kids' TV",1,3.0000
+"Germany, United States, Sweden",Documentaries,1,1.0000
+"Ghana, United States",Dramas,1,1.0000
+Guatemala,Dramas,1,4.0000
+"Hong Kong","Action & Adventure",28,3.9286
+"Hong Kong",Comedies,13,3.1538
+"Hong Kong",Dramas,7,4.0000
+"Hong Kong","International TV Shows",1,4.0000
+"Hong Kong","International Movies",1,4.0000
+"Hong Kong","Crime TV Shows",1,1.0000
+"Hong Kong, China","Action & Adventure",15,4.4667
+"Hong Kong, China",Comedies,1,1.0000
+"Hong Kong, China, Singapore","Action & Adventure",1,6.0000
+"Hong Kong, China, United States","Action & Adventure",1,4.0000
+"Hong Kong, Taiwan",Dramas,1,5.0000
+"Hong Kong, United States","Action & Adventure",2,6.0000
+"Hong Kong, United States","Children & Family Movies",1,8.0000
+Hungary,"Action & Adventure",1,4.0000
+Hungary,Dramas,1,4.0000
+Iceland,"Action & Adventure",1,4.0000
+Iceland,"Crime TV Shows",1,4.0000
+Iceland,"Horror Movies",1,4.0000
+"Iceland, Sweden, Belgium",Dramas,1,1.0000
+India,Dramas,294,3.0850
+India,Comedies,174,2.6609
+India,"Action & Adventure",105,2.5333
+India,"International TV Shows",36,2.4722
+India,"International Movies",22,2.4091
+India,"Horror Movies",20,2.8000
+India,Documentaries,17,3.0588
+India,"Children & Family Movies",10,5.9000
+India,Docuseries,5,2.8000
+India,"Crime TV Shows",5,1.6000
+India,"Kids' TV",4,4.7500
+India,"Classic Movies",2,8.5000
+India,"TV Shows",2,2.5000
+India,"Stand-Up Comedy",1,4.0000
+"India, Australia",Dramas,1,5.0000
+"India, Canada","Action & Adventure",1,1.0000
+"India, France",Dramas,4,3.5000
+"India, Germany",Dramas,1,4.0000
+"India, Germany, Austria",Dramas,1,5.0000
+"India, Germany, France","Kids' TV",1,7.0000
+"India, Iran",Dramas,1,1.0000
+"India, Japan",Dramas,1,4.0000
+"India, Malaysia",Comedies,1,5.0000
+"India, Mexico","Children & Family Movies",1,11.0000
+"India, Nepal",Comedies,1,5.0000
+"India, Pakistan",Dramas,1,1.0000
+"India, Soviet Union",Dramas,2,3.0000
+"India, Switzerland",Dramas,1,4.0000
+"India, Turkey","Horror Movies",3,4.0000
+"India, United Kingdom",Comedies,1,4.0000
+"India, United States",Dramas,2,2.5000
+"India, United States","Children & Family Movies",1,5.0000
+"India, United States",Documentaries,1,5.0000
+"India, United States","Crime TV Shows",1,4.0000
+"India, United States","Horror Movies",1,4.0000
+"India, United States",Comedies,1,1.0000
+Indonesia,Dramas,22,2.7727
+Indonesia,"Horror Movies",9,3.3333
+Indonesia,Comedies,6,1.6667
+Indonesia,"Children & Family Movies",3,5.0000
+Indonesia,"Action & Adventure",2,5.0000
+Indonesia,"International TV Shows",1,5.0000
+"Indonesia, Singapore","Action & Adventure",1,4.0000
+"Indonesia, Singapore",Dramas,1,1.0000
+"Indonesia, United States","Action & Adventure",1,4.0000
+"Iran, France",Dramas,1,10.0000
+Ireland,"Horror Movies",2,5.0000
+Ireland,Dramas,2,4.5000
+Ireland,Comedies,2,4.0000
+Ireland,"TV Comedies",2,4.0000
+Ireland,Documentaries,1,6.0000
+Ireland,"International TV Shows",1,4.0000
+Ireland,"Kids' TV",1,3.0000
+"Ireland, Canada","Children & Family Movies",1,2.0000
+"Ireland, Canada, Luxembourg, United States","Children & Family Movies",1,10.0000
+"Ireland, Canada, United Kingdom, United States",Dramas,1,6.0000
+"Ireland, Canada, United States, United Kingdom","TV Dramas",1,4.0000
+"Ireland, South Africa","Action & Adventure",1,4.0000
+"Ireland, United Kingdom",Documentaries,1,1.0000
+"Ireland, United Kingdom, Greece, France, Netherlands",Comedies,1,6.0000
+"Ireland, United Kingdom, Italy, United States",Documentaries,1,1.0000
+"Ireland, United Kingdom, United States","British TV Shows",1,5.0000
+"Ireland, United Kingdom, United States","TV Dramas",1,4.0000
+"Ireland, United States, France",Documentaries,1,1.0000
+Israel,"International TV Shows",4,3.5000
+Israel,"Crime TV Shows",3,4.0000
+Israel,Comedies,2,4.5000
+Israel,"International Movies",1,12.0000
+Israel,Documentaries,1,5.0000
+Israel,"Horror Movies",1,4.0000
+Israel,Docuseries,1,1.0000
+"Israel, Germany",Dramas,1,1.0000
+"Israel, Germany, France",Dramas,1,5.0000
+"Israel, Germany, Poland, Luxembourg, Belgium, France, United States",Dramas,1,4.0000
+"Israel, Sweden, Germany, Netherlands",Documentaries,1,1.0000
+"Israel, United States",Dramas,2,7.0000
+Italy,"Stand-Up Comedy",4,4.0000
+Italy,Comedies,4,2.5000
+Italy,Documentaries,4,2.5000
+Italy,Dramas,3,5.0000
+Italy,"Kids' TV",2,5.0000
+Italy,"International TV Shows",2,2.5000
+Italy,"Crime TV Shows",1,4.0000
+"Italy, Belgium, France",Dramas,1,1.0000
+"Italy, Canada, France","Kids' TV",1,3.0000
+"Italy, France",Dramas,2,8.0000
+"Italy, France",Documentaries,2,2.5000
+"Italy, France, Switzerland",Dramas,1,4.0000
+"Italy, Germany","Crime TV Shows",1,4.0000
+"Italy, India",Documentaries,1,5.0000
+"Italy, South Africa, West Germany, Australia, United States","TV Dramas",1,1.0000
+"Italy, Switzerland, Albania, Poland",Dramas,1,4.0000
+"Italy, Switzerland, France, Germany",Dramas,1,10.0000
+"Italy, Turkey",Dramas,1,4.0000
+"Italy, United Kingdom, France","International TV Shows",1,4.0000
+"Italy, United States","Action & Adventure",1,10.0000
+"Italy, United States","Kids' TV",1,7.0000
+"Italy, United States",Documentaries,1,1.0000
+"Italy, United States, Argentina",Documentaries,1,5.0000
+Japan,"Anime Series",93,3.0108
+Japan,"Action & Adventure",32,5.5313
+Japan,"International TV Shows",26,2.9231
+Japan,"Anime Features",7,6.0000
+Japan,"Crime TV Shows",3,3.0000
+Japan,Dramas,2,4.0000
+Japan,"International Movies",2,4.0000
+Japan,Movies,1,5.0000
+Japan,"TV Shows",1,1.0000
+"Japan, Canada","Anime Series",1,7.0000
+"Japan, Canada, South Korea","Anime Series",1,5.0000
+"Japan, United States","Horror Movies",2,4.0000
+"Japan, United States",Documentaries,2,1.0000
+"Japan, United States","Anime Features",1,7.0000
+"Japan, United States","Anime Series",1,5.0000
+Lebanon,"International TV Shows",3,3.0000
+Lebanon,"Crime TV Shows",2,2.5000
+"Lebanon, Jordan","International TV Shows",1,4.0000
+"Lebanon, Qatar",Comedies,1,4.0000
+Malaysia,"Kids' TV",4,6.0000
+Malaysia,Dramas,4,2.7500
+Malaysia,Comedies,3,2.0000
+Malaysia,"Action & Adventure",3,1.0000
+Malaysia,"International TV Shows",2,1.0000
+Malaysia,"Horror Movies",1,4.0000
+"Malaysia, Singapore, Hong Kong","International TV Shows",1,1.0000
+Mexico,"Stand-Up Comedy",16,4.0000
+Mexico,"Crime TV Shows",13,3.3077
+Mexico,Dramas,12,5.4167
+Mexico,"International TV Shows",11,3.3636
+Mexico,Comedies,10,6.4000
+Mexico,Documentaries,6,3.1667
+Mexico,"Horror Movies",3,6.6667
+Mexico,"Kids' TV",2,7.0000
+Mexico,"Classic & Cult TV",2,5.0000
+Mexico,"Action & Adventure",2,4.0000
+Mexico,"Classic Movies",1,6.0000
+Mexico,"International Movies",1,4.0000
+Mexico,Docuseries,1,2.0000
+"Mexico, Argentina",Movies,1,4.0000
+"Mexico, Finland",Dramas,1,4.0000
+"Mexico, France",Dramas,1,12.0000
+"Mexico, Netherlands",Dramas,1,4.0000
+"Mexico, Spain","Action & Adventure",1,4.0000
+"Mexico, United States","Crime TV Shows",4,2.5000
+"Mexico, United States",Comedies,2,7.0000
+"Mexico, United States",Documentaries,2,5.5000
+"Mexico, United States","Children & Family Movies",1,7.0000
+"Mexico, United States",Dramas,1,6.0000
+Netherlands,Dramas,5,7.4000
+Netherlands,Comedies,2,3.0000
+Netherlands,"International Movies",1,4.0000
+Netherlands,"International TV Shows",1,4.0000
+Netherlands,"Stand-Up Comedy",1,4.0000
+Netherlands,"Children & Family Movies",1,1.0000
+"Netherlands, Belgium",Documentaries,1,4.0000
+"Netherlands, Belgium, Germany, Jordan",Dramas,1,4.0000
+"Netherlands, Belgium, United Kingdom, United States","Action & Adventure",1,6.0000
+"Netherlands, Denmark, France, Germany",Documentaries,1,2.0000
+"Netherlands, Denmark, South Africa",Documentaries,1,5.0000
+"Netherlands, Germany, Italy, Canada","Kids' TV",1,3.0000
+"Netherlands, United States",Documentaries,1,1.0000
+"New Zealand",Documentaries,3,3.3333
+"New Zealand",Dramas,2,4.0000
+"New Zealand",Comedies,1,4.0000
+"New Zealand",Docuseries,1,4.0000
+"New Zealand","International TV Shows",1,1.0000
+"New Zealand, United Kingdom","Action & Adventure",1,6.0000
+"New Zealand, United Kingdom, Australia","Children & Family Movies",1,8.0000
+Nigeria,Dramas,13,3.3846
+Nigeria,Comedies,10,2.3000
+Nigeria,"Action & Adventure",2,2.5000
+Nigeria,"Horror Movies",1,1.0000
+Norway,"International TV Shows",3,4.6667
+Norway,"Children & Family Movies",1,5.0000
+Norway,Docuseries,1,5.0000
+Norway,Documentaries,1,4.0000
+Norway,"Action & Adventure",1,4.0000
+"Norway, Denmark, Netherlands, Sweden",Dramas,1,4.0000
+"Norway, Denmark, Sweden",Comedies,1,4.0000
+"Norway, Germany",Dramas,1,5.0000
+"Norway, Germany, Sweden","Crime TV Shows",1,4.0000
+"Norway, Iceland, United States",Dramas,1,6.0000
+"Norway, Sweden","International TV Shows",1,4.0000
+"Norway, United Kingdom, France, Ireland",Dramas,1,10.0000
+"Norway, United States","Crime TV Shows",1,4.0000
+Pakistan,Dramas,5,1.8000
+Pakistan,Comedies,5,1.8000
+Pakistan,"International TV Shows",3,3.6667
+Pakistan,"Action & Adventure",2,2.5000
+Pakistan,"Horror Movies",1,1.0000
+Pakistan,"International Movies",1,1.0000
+Pakistan,"Crime TV Shows",1,1.0000
+"Pakistan, Norway, United States",Dramas,1,1.0000
+"Pakistan, United Arab Emirates",Dramas,1,1.0000
+"Pakistan, United States",Dramas,1,1.0000
+"Paraguay, Argentina","Action & Adventure",1,4.0000
+Peru,Comedies,2,8.0000
+Peru,"Horror Movies",1,4.0000
+Peru,Documentaries,1,2.0000
+"Peru, United States, United Kingdom",Documentaries,1,1.0000
+Philippines,Dramas,15,2.2000
+Philippines,Comedies,14,3.1429
+Philippines,"International Movies",6,4.0000
+Philippines,"Action & Adventure",5,2.2000
+Philippines,"Horror Movies",2,3.0000
+Philippines,"International TV Shows",1,4.0000
+"Philippines, Qatar",Dramas,1,4.0000
+"Philippines, Singapore","Horror Movies",1,1.0000
+Poland,Dramas,5,3.4000
+Poland,Comedies,2,4.5000
+Poland,"Crime TV Shows",2,2.5000
+Poland,Docuseries,1,4.0000
+Poland,"Classic Movies",1,4.0000
+"Poland,","Classic Movies",1,4.0000
+"Poland, United States","Crime TV Shows",1,4.0000
+"Poland, United States",Documentaries,1,4.0000
+"Poland, West Germany","Horror Movies",1,4.0000
+"Portugal, France, Poland, United States",Dramas,1,4.0000
+"Portugal, Spain",Dramas,1,4.0000
+Romania,Comedies,3,4.0000
+Romania,"International Movies",1,4.0000
+Russia,"Crime TV Shows",6,3.5000
+Russia,"Kids' TV",4,2.7500
+Russia,"International TV Shows",2,2.5000
+Russia,Dramas,1,1.0000
+"Russia, Poland, Serbia",Dramas,1,10.0000
+"Russia, Spain","Children & Family Movies",1,3.0000
+"Russia, United States","Action & Adventure",1,4.0000
+"Saudi Arabia",Comedies,1,1.0000
+"Saudi Arabia, Syria, Egypt, Lebanon, Kuwait","International TV Shows",1,4.0000
+"Serbia, South Korea, Slovenia","Horror Movies",1,4.0000
+"Serbia, United States","Action & Adventure",1,4.0000
+Singapore,"International TV Shows",6,4.1667
+Singapore,"Crime TV Shows",3,1.0000
+Singapore,"Horror Movies",1,6.0000
+Singapore,"Action & Adventure",1,4.0000
+Singapore,Dramas,1,4.0000
+Singapore,"International Movies",1,4.0000
+Singapore,"Stand-Up Comedy",1,4.0000
+"Singapore, France",Dramas,1,12.0000
+"Singapore, Japan, France",Dramas,1,5.0000
+"Singapore, Malaysia","Horror Movies",1,1.0000
+"Singapore, United States","International TV Shows",1,4.0000
+"Singapore, United States",Thrillers,1,4.0000
+"Slovenia, Croatia, Germany, Czech Republic, Qatar",Comedies,1,1.0000
+"Somalia, Kenya, Sudan, South Africa, United States",Dramas,1,6.0000
+"South Africa",Dramas,2,4.0000
+"South Africa",Comedies,2,2.5000
+"South Africa, China, United States","Action & Adventure",1,6.0000
+"South Africa, Germany, Netherlands, France",Dramas,1,4.0000
+"South Africa, United States","Action & Adventure",2,8.0000
+"South Africa, United States, Germany",Dramas,1,6.0000
+"South Africa, United States, New Zealand, Canada","Action & Adventure",1,6.0000
+"South Korea","International TV Shows",78,1.9744
+"South Korea","Crime TV Shows",16,2.3125
+"South Korea","Action & Adventure",12,6.0000
+"South Korea",Dramas,12,3.7500
+"South Korea","Kids' TV",7,4.7143
+"South Korea","International Movies",3,3.3333
+"South Korea","Stand-Up Comedy",2,4.0000
+"South Korea",Comedies,2,2.5000
+"South Korea",Documentaries,1,4.0000
+"South Korea, China, United States",Comedies,1,4.0000
+"South Korea, Czech Republic","Action & Adventure",1,6.0000
+"South Korea, France","Kids' TV",1,3.0000
+"South Korea, United States","Kids' TV",2,5.0000
+"South Korea, United States","Children & Family Movies",1,11.0000
+"South Korea, United States","Action & Adventure",1,4.0000
+"South Korea, United States","International TV Shows",1,4.0000
+"Soviet Union, India","Action & Adventure",1,5.0000
+Spain,Comedies,25,4.2800
+Spain,Dramas,24,4.7083
+Spain,"International TV Shows",16,4.2500
+Spain,"Crime TV Shows",16,3.8125
+Spain,Documentaries,13,2.0000
+Spain,"International Movies",7,5.8571
+Spain,"Action & Adventure",3,3.0000
+Spain,"Children & Family Movies",2,6.5000
+Spain,"Horror Movies",2,4.0000
+Spain,"Kids' TV",2,4.0000
+Spain,Thrillers,1,6.0000
+Spain,Movies,1,2.0000
+Spain,Docuseries,1,1.0000
+"Spain, Argentina",Comedies,1,4.0000
+"Spain, Argentina",Dramas,1,4.0000
+"Spain, Belgium","Horror Movies",1,4.0000
+"Spain, Belgium, Switzerland, United States, China, United Kingdom","Children & Family Movies",1,8.0000
+"Spain, Colombia",Dramas,1,1.0000
+"Spain, Cuba","Crime TV Shows",1,4.0000
+"Spain, France",Dramas,3,4.0000
+"Spain, France","Horror Movies",2,4.0000
+"Spain, France, Italy",Dramas,1,6.0000
+"Spain, France, Uruguay",Comedies,1,4.0000
+"Spain, Germany","International Movies",1,4.0000
+"Spain, Italy, Argentina","Children & Family Movies",1,9.0000
+"Spain, Mexico",Comedies,1,4.0000
+"Spain, Mexico",Dramas,1,1.0000
+"Spain, Mexico, France",Dramas,1,12.0000
+"Spain, Portugal",Comedies,1,4.0000
+"Spain, Switzerland",Dramas,1,4.0000
+"Spain, United Kingdom","Kids' TV",1,3.0000
+"Spain, United Kingdom, United States","Children & Family Movies",1,8.0000
+Sweden,"Crime TV Shows",3,4.0000
+Sweden,Comedies,2,4.0000
+Sweden,"International TV Shows",2,4.0000
+"Sweden, Netherlands",Documentaries,1,4.0000
+"Sweden, United States",Documentaries,3,2.3333
+Switzerland,Comedies,1,4.0000
+Switzerland,"International TV Shows",1,4.0000
+"Switzerland, France",Comedies,1,10.0000
+"Switzerland, United Kingdom, United States",Dramas,1,6.0000
+"Switzerland, United States","Action & Adventure",1,10.0000
+"Switzerland, United States",Documentaries,1,1.0000
+"Switzerland, Vatican City, Italy, Germany, France",Documentaries,1,8.0000
+Taiwan,"International TV Shows",61,1.7541
+Taiwan,"Crime TV Shows",4,3.2500
+Taiwan,Comedies,2,2.5000
+Taiwan,"Action & Adventure",1,4.0000
+"Taiwan, China, France, United States",Dramas,1,4.0000
+"Taiwan, Hong Kong, United States, China","Action & Adventure",1,10.0000
+Thailand,"International TV Shows",13,2.4615
+Thailand,Comedies,11,2.0909
+Thailand,"Horror Movies",9,4.5556
+Thailand,"Action & Adventure",5,3.4000
+Thailand,"International Movies",4,4.7500
+Thailand,"Crime TV Shows",3,4.0000
+Thailand,Dramas,2,4.5000
+Thailand,Documentaries,2,3.0000
+Thailand,Docuseries,1,4.0000
+"Thailand, Canada, United States","Action & Adventure",1,6.0000
+"Thailand, China, United States","Action & Adventure",1,12.0000
+"Thailand, United States","Horror Movies",1,4.0000
+Turkey,Comedies,40,3.0750
+Turkey,"International TV Shows",13,2.3077
+Turkey,"Crime TV Shows",10,2.5000
+Turkey,Dramas,8,3.1250
+Turkey,"Horror Movies",3,4.0000
+Turkey,"Action & Adventure",3,3.0000
+Turkey,"Children & Family Movies",1,5.0000
+"Turkey, Azerbaijan","International TV Shows",1,1.0000
+"Turkey, France, Germany, Poland",Dramas,1,4.0000
+"Turkey, India","Action & Adventure",1,1.0000
+"Turkey, United States","Action & Adventure",1,12.0000
+Ukraine,"Crime TV Shows",1,4.0000
+Ukraine,"International TV Shows",1,1.0000
+"United Arab Emirates","Action & Adventure",2,3.0000
+"United Arab Emirates",Comedies,1,1.0000
+"United Arab Emirates","Crime TV Shows",1,1.0000
+"United Arab Emirates, Jordan",Dramas,1,12.0000
+"United Arab Emirates, Romania","International Movies",1,4.0000
+"United Arab Emirates, United Kingdom, India",Comedies,1,1.0000
+"United Arab Emirates, United States",Dramas,1,6.0000
+"United Arab Emirates, United States","Children & Family Movies",1,5.0000
+"United Arab Emirates, United States, United Kingdom",Documentaries,1,4.0000
+"United Kingdom","British TV Shows",166,3.6024
+"United Kingdom",Documentaries,72,3.2778
+"United Kingdom",Dramas,21,5.1429
+"United Kingdom","Action & Adventure",15,5.2667
+"United Kingdom",Comedies,15,3.9333
+"United Kingdom","Stand-Up Comedy",13,4.0000
+"United Kingdom","Horror Movies",7,4.2857
+"United Kingdom",Docuseries,4,3.7500
+"United Kingdom","International Movies",4,3.5000
+"United Kingdom","Children & Family Movies",3,6.0000
+"United Kingdom","Classic Movies",2,6.0000
+"United Kingdom","Independent Movies",2,5.0000
+"United Kingdom","Reality TV",2,4.5000
+"United Kingdom",Thrillers,2,4.0000
+"United Kingdom","Music & Musicals",2,4.0000
+"United Kingdom","Sci-Fi & Fantasy",2,2.5000
+"United Kingdom","Sports Movies",1,5.0000
+"United Kingdom","International TV Shows",1,4.0000
+"United Kingdom","Crime TV Shows",1,4.0000
+"United Kingdom",Movies,1,4.0000
+"United Kingdom,",Documentaries,1,4.0000
+"United Kingdom, Australia, Canada, United States",Dramas,1,12.0000
+"United Kingdom, Belgium, Sweden",Documentaries,1,1.0000
+"United Kingdom, Brazil, Germany",Dramas,1,6.0000
+"United Kingdom, Canada","British TV Shows",1,7.0000
+"United Kingdom, Canada",Dramas,1,6.0000
+"United Kingdom, Canada","Horror Movies",1,4.0000
+"United Kingdom, Canada, France, United States","Action & Adventure",1,10.0000
+"United Kingdom, Canada, Italy",Dramas,1,4.0000
+"United Kingdom, Canada, Japan",Documentaries,1,1.0000
+"United Kingdom, Canada, United States","Kids' TV",1,7.0000
+"United Kingdom, Canada, United States",Dramas,1,6.0000
+"United Kingdom, Canada, United States","Horror Movies",1,6.0000
+"United Kingdom, Canada, United States","Action & Adventure",1,6.0000
+"United Kingdom, Canada, United States, Cayman Islands","Children & Family Movies",1,8.0000
+"United Kingdom, China, Canada, Indonesia, Singapore, United States","Action & Adventure",1,6.0000
+"United Kingdom, China, United States","Sci-Fi & Fantasy",1,10.0000
+"United Kingdom, Denmark, Canada, Croatia",Dramas,1,10.0000
+"United Kingdom, Egypt, United States",Documentaries,1,4.0000
+"United Kingdom, France",Dramas,4,9.7500
+"United Kingdom, France",Comedies,1,6.0000
+"United Kingdom, France","Crime TV Shows",1,4.0000
+"United Kingdom, France, Belgium",Dramas,1,6.0000
+"United Kingdom, France, Belgium","Action & Adventure",1,4.0000
+"United Kingdom, France, Belgium, United States","Independent Movies",1,4.0000
+"United Kingdom, France, Canada, Belgium, United States",Dramas,1,4.0000
+"United Kingdom, France, Germany",Dramas,1,6.0000
+"United Kingdom, France, Germany, Spain","British TV Shows",1,4.0000
+"United Kingdom, France, United States",Documentaries,1,10.0000
+"United Kingdom, France, United States",Dramas,1,1.0000
+"United Kingdom, Germany",Comedies,1,10.0000
+"United Kingdom, Germany","British TV Shows",1,7.0000
+"United Kingdom, Germany","Sci-Fi & Fantasy",1,4.0000
+"United Kingdom, Germany, Canada",Documentaries,1,5.0000
+"United Kingdom, Germany, Canada, United States","Action & Adventure",1,10.0000
+"United Kingdom, Germany, United States",Comedies,1,10.0000
+"United Kingdom, Hong Kong",Documentaries,1,5.0000
+"United Kingdom, India","Action & Adventure",1,4.0000
+"United Kingdom, India",Dramas,1,1.0000
+"United Kingdom, India, Sweden",Dramas,1,12.0000
+"United Kingdom, India, United States",Documentaries,1,12.0000
+"United Kingdom, India, United States",Dramas,1,10.0000
+"United Kingdom, Ireland",Dramas,1,10.0000
+"United Kingdom, Ireland","British TV Shows",1,4.0000
+"United Kingdom, Israel, Russia",Documentaries,1,4.0000
+"United Kingdom, Italy, France, United States",Dramas,1,10.0000
+"United Kingdom, Italy, Israel, Peru, United States",Documentaries,1,4.0000
+"United Kingdom, Japan, United States",Dramas,1,10.0000
+"United Kingdom, Japan, United States","Classic Movies",1,8.0000
+"United Kingdom, Jordan, Qatar, Iran","Horror Movies",1,10.0000
+"United Kingdom, Malawi","Children & Family Movies",1,1.0000
+"United Kingdom, Namibia, South Africa, Zimbabwe, United States",Documentaries,1,4.0000
+"United Kingdom, New Zealand","Action & Adventure",1,6.0000
+"United Kingdom, Norway, Denmark, Germany, Sweden","Action & Adventure",1,10.0000
+"United Kingdom, Pakistan",Comedies,1,1.0000
+"United Kingdom, Poland","Action & Adventure",1,4.0000
+"United Kingdom, Poland, United States",Dramas,1,6.0000
+"United Kingdom, Russia",Documentaries,1,1.0000
+"United Kingdom, Singapore","Kids' TV",1,3.0000
+"United Kingdom, South Africa",Thrillers,1,6.0000
+"United Kingdom, South Africa, Australia, United States","British TV Shows",1,4.0000
+"United Kingdom, South Korea","Action & Adventure",1,6.0000
+"United Kingdom, Spain, Belgium","Horror Movies",1,4.0000
+"United Kingdom, Spain, United States, Germany",Dramas,1,4.0000
+"United Kingdom, Thailand","Horror Movies",1,4.0000
+"United Kingdom, Ukraine, United States",Documentaries,1,12.0000
+"United Kingdom, United States",Dramas,9,7.1111
+"United Kingdom, United States",Comedies,6,5.5000
+"United Kingdom, United States","British TV Shows",6,3.3333
+"United Kingdom, United States","Action & Adventure",5,6.4000
+"United Kingdom, United States","Classic Movies",2,9.0000
+"United Kingdom, United States","Children & Family Movies",2,8.0000
+"United Kingdom, United States","Horror Movies",2,5.0000
+"United Kingdom, United States",Documentaries,2,2.5000
+"United Kingdom, United States",Thrillers,1,6.0000
+"United Kingdom, United States",Docuseries,1,5.0000
+"United Kingdom, United States","TV Action & Adventure",1,5.0000
+"United Kingdom, United States","Independent Movies",1,4.0000
+"United Kingdom, United States","TV Dramas",1,4.0000
+"United Kingdom, United States, Australia",Dramas,1,6.0000
+"United Kingdom, United States, Czech Republic","British TV Shows",1,1.0000
+"United Kingdom, United States, Dominican Republic","Horror Movies",1,10.0000
+"United Kingdom, United States, France, Germany",Comedies,1,10.0000
+"United Kingdom, United States, Greece, Italy, Germany","British TV Shows",1,5.0000
+"United Kingdom, United States, Morocco",Dramas,1,1.0000
+"United Kingdom, United States, Russia","Action & Adventure",1,6.0000
+"United Kingdom, United States, Spain, Germany, Greece, Canada","British TV Shows",2,5.0000
+"United Kingdom, United States, Spain, Germany, Greece, Canada",Movies,2,5.0000
+"United Kingdom, West Germany","International TV Shows",1,1.0000
+"United States",Documentaries,298,4.6846
+"United States",Dramas,226,5.9513
+"United States",Comedies,196,5.8827
+"United States","Stand-Up Comedy",173,4.6821
+"United States","Children & Family Movies",165,6.4667
+"United States","Action & Adventure",139,6.9065
+"United States","Kids' TV",96,6.3750
+"United States","Crime TV Shows",84,2.7976
+"United States",Docuseries,83,3.4940
+"United States","TV Comedies",74,3.3108
+"United States","Horror Movies",71,5.2254
+"United States","TV Dramas",42,2.4762
+"United States","Reality TV",41,3.4634
+"United States","Classic Movies",33,5.5152
+"United States","Stand-Up Comedy & Talk Shows",26,3.2692
+"United States","TV Action & Adventure",25,4.2400
+"United States",Thrillers,25,3.5200
+"United States",Movies,17,5.2353
+"United States","Romantic TV Shows",17,2.1176
+"United States","Classic & Cult TV",14,3.4286
+"United States","International TV Shows",13,2.6923
+"United States","Independent Movies",10,4.5000
+"United States","Music & Musicals",7,3.7143
+"United States","TV Horror",6,2.5000
+"United States","Sci-Fi & Fantasy",5,9.2000
+"United States","British TV Shows",5,2.8000
+"United States","Cult Movies",4,7.5000
+"United States","Anime Series",3,5.0000
+"United States","TV Shows",3,3.6667
+"United States","Romantic Movies",2,2.5000
+"United States","Anime Features",1,4.0000
+"United States,",Documentaries,1,4.0000
+"United States, Argentina",Comedies,1,4.0000
+"United States, Australia","Children & Family Movies",4,8.0000
+"United States, Australia","Action & Adventure",2,8.0000
+"United States, Australia",Dramas,2,8.0000
+"United States, Australia",Documentaries,1,4.0000
+"United States, Australia, China",Documentaries,1,1.0000
+"United States, Australia, Mexico","Horror Movies",1,6.0000
+"United States, Australia, Samoa, United Kingdom",Documentaries,1,1.0000
+"United States, Australia, South Africa, United Kingdom",Documentaries,1,5.0000
+"United States, Bermuda, Ecuador",Documentaries,1,7.0000
+"United States, Botswana",Documentaries,1,5.0000
+"United States, Brazil",Comedies,1,6.0000
+"United States, Brazil, India, Uganda, China",Documentaries,1,8.0000
+"United States, Brazil, South Korea, Mexico, Japan, Germany","Reality TV",2,1.0000
+"United States, Bulgaria","Action & Adventure",1,6.0000
+"United States, Bulgaria","Children & Family Movies",1,5.0000
+"United States, Cambodia","Children & Family Movies",1,8.0000
+"United States, Canada","Kids' TV",9,6.3333
+"United States, Canada","Children & Family Movies",9,3.7778
+"United States, Canada",Comedies,5,6.4000
+"United States, Canada","Action & Adventure",3,8.6667
+"United States, Canada","Horror Movies",2,8.0000
+"United States, Canada",Documentaries,2,2.5000
+"United States, Canada",Dramas,1,6.0000
+"United States, Canada","TV Dramas",1,5.0000
+"United States, Canada","TV Horror",1,4.0000
+"United States, Canada","Crime TV Shows",1,1.0000
+"United States, Canada, Belgium, United Kingdom","Action & Adventure",1,6.0000
+"United States, Canada, Ireland",Dramas,1,10.0000
+"United States, Canada, Japan, Panama",Documentaries,1,5.0000
+"United States, Canada, United Kingdom","Horror Movies",1,10.0000
+"United States, Chile","Action & Adventure",1,6.0000
+"United States, Chile","Crime TV Shows",1,1.0000
+"United States, China","Children & Family Movies",2,8.0000
+"United States, China","Action & Adventure",1,10.0000
+"United States, China","Horror Movies",1,10.0000
+"United States, China",Comedies,1,6.0000
+"United States, China, Hong Kong","Action & Adventure",1,6.0000
+"United States, Colombia","International TV Shows",1,4.0000
+"United States, Colombia, Mexico","Crime TV Shows",1,4.0000
+"United States, Czech Republic","Crime TV Shows",2,4.0000
+"United States, Czech Republic","Children & Family Movies",1,8.0000
+"United States, Czech Republic","Reality TV",1,4.0000
+"United States, Czech Republic, United Kingdom","Action & Adventure",1,10.0000
+"United States, Denmark",Documentaries,1,4.0000
+"United States, France",Dramas,2,6.0000
+"United States, France",Documentaries,2,4.0000
+"United States, France","Children & Family Movies",1,8.0000
+"United States, France",Comedies,1,6.0000
+"United States, France","Independent Movies",1,6.0000
+"United States, France","Horror Movies",1,4.0000
+"United States, France","Kids' TV",1,3.0000
+"United States, France, Canada","TV Comedies",1,4.0000
+"United States, France, Canada, Lebanon, Qatar","Children & Family Movies",1,8.0000
+"United States, France, Canada, Spain","Horror Movies",1,6.0000
+"United States, France, Japan","Kids' TV",6,11.0000
+"United States, France, South Korea, Indonesia","Kids' TV",1,11.0000
+"United States, France, United Kingdom, Japan",Dramas,1,8.0000
+"United States, Germany","Action & Adventure",3,8.0000
+"United States, Germany",Dramas,3,7.3333
+"United States, Germany",Comedies,2,8.0000
+"United States, Germany, Australia",Comedies,1,10.0000
+"United States, Germany, Canada","Action & Adventure",1,10.0000
+"United States, Germany, Canada",Thrillers,1,6.0000
+"United States, Germany, United Kingdom","Action & Adventure",1,10.0000
+"United States, Greece, Brazil",Dramas,1,8.0000
+"United States, Greece, United Kingdom",Dramas,1,1.0000
+"United States, Hong Kong",Thrillers,1,4.0000
+"United States, Hungary","Action & Adventure",1,1.0000
+"United States, Hungary, Ireland, Canada","TV Dramas",1,4.0000
+"United States, Iceland",Dramas,1,1.0000
+"United States, India",Dramas,3,8.0000
+"United States, India",Comedies,1,4.0000
+"United States, India",Documentaries,1,1.0000
+"United States, India, Bangladesh",Dramas,1,12.0000
+"United States, India, South Korea, China","Children & Family Movies",1,5.0000
+"United States, India, United Arab Emirates",Comedies,1,8.0000
+"United States, Indonesia",Dramas,1,10.0000
+"United States, Ireland",Comedies,1,8.0000
+"United States, Ireland","Crime TV Shows",1,4.0000
+"United States, Ireland, United Kingdom","British TV Shows",1,3.0000
+"United States, Israel, Italy, South Africa","Crime TV Shows",1,1.0000
+"United States, Israel, United Kingdom, Canada",Dramas,1,6.0000
+"United States, Italy","Children & Family Movies",1,11.0000
+"United States, Italy","Kids' TV",1,7.0000
+"United States, Italy",Dramas,1,6.0000
+"United States, Italy",Documentaries,1,4.0000
+"United States, Italy, United Kingdom, Liechtenstein","Classic Movies",1,10.0000
+"United States, Japan","Anime Series",5,4.8000
+"United States, Japan","Kids' TV",2,11.0000
+"United States, Japan","International TV Shows",2,1.0000
+"United States, Japan","Action & Adventure",1,10.0000
+"United States, Japan",Documentaries,1,4.0000
+"United States, Japan","TV Comedies",1,1.0000
+"United States, Japan, Canada","Kids' TV",2,9.0000
+"United States, Kazakhstan","Children & Family Movies",1,7.0000
+"United States, Malta, United Kingdom","Action & Adventure",1,6.0000
+"United States, Mexico",Comedies,2,7.0000
+"United States, Mexico",Documentaries,2,3.0000
+"United States, Mexico","Kids' TV",1,11.0000
+"United States, Mexico","International TV Shows",1,5.0000
+"United States, Mexico","Action & Adventure",1,1.0000
+"United States, Mexico","Spanish-Language TV Shows",1,1.0000
+"United States, Mexico, Colombia","Crime TV Shows",1,1.0000
+"United States, Mexico, Spain, Malta","Crime TV Shows",1,1.0000
+"United States, Morocco",Dramas,1,10.0000
+"United States, Netherlands, Japan, France","Kids' TV",1,11.0000
+"United States, New Zealand","Kids' TV",2,11.0000
+"United States, New Zealand","TV Action & Adventure",1,1.0000
+"United States, New Zealand, Japan","Kids' TV",1,11.0000
+"United States, New Zealand, United Kingdom","Children & Family Movies",1,8.0000
+"United States, Nicaragua",Documentaries,1,6.0000
+"United States, Russia","Kids' TV",1,3.0000
+"United States, Senegal",Documentaries,1,4.0000
+"United States, South Africa","Action & Adventure",2,10.0000
+"United States, South Korea, China","Kids' TV",1,3.0000
+"United States, South Korea, China","Romantic TV Shows",1,1.0000
+"United States, South Korea, Japan","Children & Family Movies",1,5.0000
+"United States, Spain",Thrillers,1,6.0000
+"United States, Spain",Dramas,1,4.0000
+"United States, Spain",Documentaries,1,1.0000
+"United States, Spain, Chile, Peru","Horror Movies",1,6.0000
+"United States, Spain, Colombia, Mexico","Crime TV Shows",1,1.0000
+"United States, Spain, Germany","Action & Adventure",1,6.0000
+"United States, Spain, Italy",Dramas,1,4.0000
+"United States, Sweden","Kids' TV",1,11.0000
+"United States, Sweden",Dramas,1,10.0000
+"United States, Sweden",Comedies,1,6.0000
+"United States, Taiwan",Documentaries,1,1.0000
+"United States, United Arab Emirates","Action & Adventure",1,10.0000

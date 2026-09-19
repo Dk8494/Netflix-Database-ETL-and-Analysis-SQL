@@ -1,0 +1,550 @@
+release_year,genre,average_rating,total_shows
+2020,Docuseries,4.0000,1
+2019,"Kids' TV",5.5283,53
+2019,"Children & Family Movies",5.0541,37
+2019,"Independent Movies",4.5000,2
+2019,Movies,4.2000,5
+2019,"Anime Features",4.0000,1
+2019,"Reality TV",3.9565,23
+2019,"British TV Shows",3.8462,26
+2019,"Action & Adventure",3.8400,25
+2019,Dramas,3.7260,73
+2019,"Anime Series",3.7059,17
+2019,"Stand-Up Comedy",3.6667,42
+2019,"Crime TV Shows",3.4625,80
+2019,Comedies,3.4068,59
+2019,"Stand-Up Comedy & Talk Shows",3.4000,5
+2019,"TV Comedies",3.3333,36
+2019,"International Movies",3.3000,10
+2019,Documentaries,3.2727,66
+2019,"TV Action & Adventure",3.0000,13
+2019,"Horror Movies",2.9500,20
+2019,Docuseries,2.9412,34
+2019,"International TV Shows",2.9118,102
+2019,"TV Dramas",2.6923,13
+2019,"TV Shows",2.5000,2
+2019,Thrillers,2.2857,7
+2019,"TV Horror",2.2000,5
+2019,"Romantic TV Shows",1.7500,4
+2019,"Classic & Cult TV",1.0000,2
+2018,"Children & Family Movies",7.0000,49
+2018,"Anime Features",6.5000,2
+2018,"Kids' TV",6.2679,56
+2018,"Cult Movies",6.0000,1
+2018,Movies,4.7000,10
+2018,"TV Action & Adventure",4.6250,8
+2018,"Action & Adventure",4.4776,67
+2018,"Independent Movies",4.4000,5
+2018,"Classic & Cult TV",4.0000,2
+2018,"International Movies",4.0000,9
+2018,"Romantic Movies",4.0000,1
+2018,"TV Horror",4.0000,1
+2018,"Stand-Up Comedy",3.8772,57
+2018,"Horror Movies",3.7692,39
+2018,"Music & Musicals",3.7500,4
+2018,"Sci-Fi & Fantasy",3.7500,4
+2018,"British TV Shows",3.6316,38
+2018,"Crime TV Shows",3.5443,79
+2018,Dramas,3.4650,157
+2018,Docuseries,3.4545,44
+2018,"TV Comedies",3.3182,22
+2018,Comedies,3.2636,110
+2018,"Romantic TV Shows",3.2500,4
+2018,Documentaries,3.1759,108
+2018,"TV Dramas",3.0909,11
+2018,"Anime Series",3.0870,23
+2018,"Stand-Up Comedy & Talk Shows",3.0000,14
+2018,"Reality TV",2.9286,14
+2018,"International TV Shows",2.8936,94
+2018,Thrillers,2.1429,7
+2017,"Anime Features",7.0000,1
+2017,"Kids' TV",5.6042,48
+2017,"Children & Family Movies",5.2308,39
+2017,"Sports Movies",5.0000,1
+2017,"Horror Movies",4.3056,36
+2017,"Action & Adventure",4.1233,73
+2017,"Classic & Cult TV",4.0000,1
+2017,Docuseries,4.0000,20
+2017,"Independent Movies",4.0000,4
+2017,Comedies,3.8396,106
+2017,"Stand-Up Comedy",3.8036,56
+2017,"TV Comedies",3.7778,9
+2017,"Anime Series",3.6667,9
+2017,Movies,3.6667,3
+2017,"Stand-Up Comedy & Talk Shows",3.6667,6
+2017,"International Movies",3.5385,13
+2017,Dramas,3.5298,151
+2017,Documentaries,3.4000,160
+2017,"Reality TV",3.3333,3
+2017,Thrillers,3.2857,7
+2017,"British TV Shows",2.8611,36
+2017,"Crime TV Shows",2.8545,55
+2017,"International TV Shows",2.8358,67
+2017,"TV Dramas",2.5333,15
+2017,"Music & Musicals",2.5000,2
+2017,"Romantic Movies",1.0000,1
+2017,"Romantic TV Shows",1.0000,1
+2017,"TV Sci-Fi & Fantasy",1.0000,1
+2017,"TV Shows",1.0000,2
+2016,"Children & Family Movies",6.1282,39
+2016,"Anime Features",6.0000,3
+2016,Thrillers,5.3333,6
+2016,"Kids' TV",5.2857,35
+2016,"Horror Movies",5.1364,22
+2016,Dramas,4.8494,166
+2016,"Action & Adventure",4.8413,63
+2016,Movies,4.6667,6
+2016,"TV Action & Adventure",4.5000,2
+2016,Comedies,4.3646,96
+2016,"Music & Musicals",4.2500,4
+2016,"Classic & Cult TV",4.0000,1
+2016,"Independent Movies",4.0000,1
+2016,Documentaries,3.9618,131
+2016,"Stand-Up Comedy",3.8824,34
+2016,"International Movies",3.7500,12
+2016,"British TV Shows",3.4828,29
+2016,Docuseries,3.3889,18
+2016,"TV Comedies",3.1667,6
+2016,"Anime Series",3.1429,7
+2016,"Reality TV",3.1000,10
+2016,"Crime TV Shows",3.0303,33
+2016,"TV Dramas",2.5000,2
+2016,"International TV Shows",2.2500,84
+2016,"Romantic TV Shows",1.6000,5
+2016,"Spanish-Language TV Shows",1.0000,1
+2016,"Stand-Up Comedy & Talk Shows",1.0000,1
+2015,"Cult Movies",12.0000,1
+2015,"TV Action & Adventure",12.0000,1
+2015,"Anime Features",10.0000,1
+2015,"Sci-Fi & Fantasy",10.0000,1
+2015,Thrillers,7.3333,3
+2015,"Horror Movies",6.8333,12
+2015,"TV Shows",6.0000,1
+2015,Dramas,5.8257,109
+2015,Documentaries,5.1385,65
+2015,"International Movies",4.8889,9
+2015,Comedies,4.8182,66
+2015,"Action & Adventure",4.7907,43
+2015,"Kids' TV",4.6250,16
+2015,"Children & Family Movies",4.5294,17
+2015,"Stand-Up Comedy",4.3333,15
+2015,"Stand-Up Comedy & Talk Shows",4.0000,1
+2015,"TV Horror",4.0000,2
+2015,"TV Comedies",3.6667,6
+2015,Movies,3.4000,5
+2015,"British TV Shows",3.3182,22
+2015,"Anime Series",3.2500,8
+2015,Docuseries,3.2500,4
+2015,"International TV Shows",2.3651,63
+2015,"Crime TV Shows",2.3158,19
+2015,"TV Dramas",2.0000,4
+2015,"Reality TV",1.5000,2
+2015,"Classic & Cult TV",1.0000,1
+2014,"Sci-Fi & Fantasy",10.0000,2
+2014,Documentaries,6.1538,26
+2014,Movies,6.1250,8
+2014,"Children & Family Movies",6.0000,20
+2014,"Stand-Up Comedy",6.0000,9
+2014,"International Movies",5.8571,7
+2014,"Kids' TV",5.1818,11
+2014,"Horror Movies",5.0667,15
+2014,Dramas,5.0370,54
+2014,"TV Comedies",5.0000,1
+2014,"Anime Series",4.6667,6
+2014,"Action & Adventure",4.5263,19
+2014,Comedies,4.1111,45
+2014,Docuseries,4.0000,9
+2014,"Reality TV",4.0000,3
+2014,"TV Shows",4.0000,1
+2014,"British TV Shows",3.1429,7
+2014,"Crime TV Shows",2.5000,10
+2014,"International TV Shows",2.3600,25
+2014,"Romantic TV Shows",1.0000,1
+2014,Thrillers,1.0000,1
+2014,"TV Dramas",1.0000,1
+2013,Docuseries,8.5000,2
+2013,"Stand-Up Comedy",8.2500,8
+2013,"Children & Family Movies",6.4286,21
+2013,"Kids' TV",6.1429,7
+2013,"Cult Movies",6.0000,1
+2013,"Independent Movies",6.0000,2
+2013,"Horror Movies",5.7143,7
+2013,Documentaries,5.6071,28
+2013,"Action & Adventure",5.3000,20
+2013,Dramas,5.0870,46
+2013,"British TV Shows",4.3636,11
+2013,"TV Action & Adventure",4.0000,1
+2013,"TV Dramas",4.0000,1
+2013,Comedies,3.3056,36
+2013,"Reality TV",3.0000,2
+2013,"Anime Series",2.5000,4
+2013,"International TV Shows",2.3636,22
+2013,"Crime TV Shows",2.1250,8
+2013,"International Movies",2.0000,2
+2013,"Anime Features",1.0000,1
+2013,"TV Comedies",1.0000,1
+2012,"Children & Family Movies",7.0000,11
+2012,"Stand-Up Comedy",6.8333,12
+2012,Movies,6.5000,2
+2012,"Horror Movies",6.0000,2
+2012,Documentaries,5.4444,9
+2012,Docuseries,5.0000,1
+2012,"Anime Series",4.7500,4
+2012,"Action & Adventure",4.6000,20
+2012,"British TV Shows",4.3750,8
+2012,Dramas,4.0000,23
+2012,"Kids' TV",4.0000,8
+2012,Comedies,3.7838,37
+2012,"Crime TV Shows",3.0000,3
+2012,"Reality TV",3.0000,2
+2012,"TV Comedies",2.5000,2
+2012,"International Movies",2.3333,3
+2012,"International TV Shows",1.7692,26
+2012,"TV Dramas",1.0000,1
+2011,Documentaries,8.0000,7
+2011,Movies,8.0000,4
+2011,"Stand-Up Comedy",7.0000,5
+2011,"Children & Family Movies",6.7500,12
+2011,"Horror Movies",6.3333,6
+2011,"Kids' TV",5.4286,7
+2011,"Anime Features",5.0000,1
+2011,Dramas,4.5714,21
+2011,Comedies,4.2727,22
+2011,"Action & Adventure",4.1667,12
+2011,"Music & Musicals",4.0000,1
+2011,"Reality TV",4.0000,1
+2011,"British TV Shows",3.7143,7
+2011,"Anime Series",2.7500,4
+2011,"International TV Shows",2.3846,13
+2011,"Crime TV Shows",2.3333,3
+2011,"International Movies",1.0000,1
+2010,"Action & Adventure",7.0000,16
+2010,"Stand-Up Comedy",6.6667,3
+2010,"Kids' TV",6.5000,4
+2010,"Horror Movies",5.6250,8
+2010,"Children & Family Movies",5.2143,14
+2010,Dramas,5.2143,28
+2010,"Classic & Cult TV",5.0000,1
+2010,Docuseries,5.0000,3
+2010,"International Movies",5.0000,1
+2010,"Reality TV",5.0000,1
+2010,Documentaries,4.5714,7
+2010,"British TV Shows",4.0000,1
+2010,"TV Dramas",4.0000,1
+2010,Comedies,3.4762,21
+2010,"Crime TV Shows",2.5000,6
+2010,"International TV Shows",2.4615,13
+2010,"Anime Series",1.6667,6
+2010,Movies,1.0000,1
+2010,"Romantic TV Shows",1.0000,1
+2009,"Sci-Fi & Fantasy",10.0000,2
+2009,"Children & Family Movies",7.6250,8
+2009,"Action & Adventure",7.0667,15
+2009,"Kids' TV",7.0000,3
+2009,"British TV Shows",6.8333,6
+2009,Documentaries,5.0000,2
+2009,Dramas,5.0000,16
+2009,"Stand-Up Comedy",5.0000,1
+2009,Comedies,4.3333,21
+2009,"International Movies",4.3333,3
+2009,"Horror Movies",4.0000,5
+2009,"Romantic TV Shows",4.0000,1
+2009,Docuseries,3.6667,3
+2009,"Anime Series",3.0000,3
+2009,"International TV Shows",1.8750,16
+2009,"Crime TV Shows",1.0000,1
+2008,"Children & Family Movies",7.4286,7
+2008,"Horror Movies",7.0000,2
+2008,"Kids' TV",7.0000,3
+2008,"Action & Adventure",6.2632,19
+2008,Dramas,5.9583,24
+2008,Comedies,4.8421,19
+2008,"Anime Series",4.0000,6
+2008,"Music & Musicals",4.0000,1
+2008,"International TV Shows",3.4000,5
+2008,"British TV Shows",3.0000,2
+2008,"Crime TV Shows",3.0000,3
+2008,Documentaries,3.0000,4
+2008,"Stand-Up Comedy",3.0000,3
+2008,Movies,2.0000,1
+2008,"Classic & Cult TV",1.0000,1
+2008,"International Movies",1.0000,2
+2007,"Horror Movies",12.0000,1
+2007,"Stand-Up Comedy",12.0000,1
+2007,"Children & Family Movies",8.0000,5
+2007,Comedies,7.4545,11
+2007,"Action & Adventure",6.8889,9
+2007,Documentaries,6.5000,4
+2007,"Cult Movies",6.0000,1
+2007,Thrillers,6.0000,1
+2007,"Kids' TV",5.6667,3
+2007,Dramas,5.4118,17
+2007,"Stand-Up Comedy & Talk Shows",4.0000,1
+2007,Docuseries,3.0000,2
+2007,"Anime Series",1.0000,1
+2007,"Crime TV Shows",1.0000,1
+2007,"International TV Shows",1.0000,1
+2007,"TV Comedies",1.0000,1
+2007,"TV Dramas",1.0000,1
+2006,"Kids' TV",11.0000,1
+2006,"Sci-Fi & Fantasy",10.0000,1
+2006,"Action & Adventure",8.8571,7
+2006,"Children & Family Movies",8.0000,5
+2006,"Stand-Up Comedy",8.0000,4
+2006,Dramas,5.9091,11
+2006,"Horror Movies",5.0000,3
+2006,"International Movies",4.5000,2
+2006,"British TV Shows",4.3333,3
+2006,Comedies,4.0833,12
+2006,"International TV Shows",4.0000,1
+2006,Documentaries,3.6667,3
+2006,"Anime Series",1.0000,3
+2006,"Romantic TV Shows",1.0000,1
+2005,"Kids' TV",8.0000,2
+2005,"Children & Family Movies",7.7500,4
+2005,"Anime Series",7.0000,1
+2005,"Action & Adventure",6.6364,11
+2005,"Independent Movies",6.0000,1
+2005,Comedies,5.0909,11
+2005,"Romantic TV Shows",5.0000,1
+2005,"International Movies",4.0000,1
+2005,Dramas,3.1111,9
+2005,"British TV Shows",2.5000,2
+2005,"International TV Shows",2.0000,3
+2005,Documentaries,1.0000,2
+2005,Movies,1.0000,1
+2005,"Stand-Up Comedy",1.0000,1
+2005,"TV Comedies",1.0000,1
+2005,"TV Dramas",1.0000,1
+2004,"British TV Shows",12.0000,1
+2004,"Kids' TV",11.0000,1
+2004,"Children & Family Movies",8.4000,5
+2004,Comedies,8.0000,2
+2004,"Action & Adventure",6.5385,13
+2004,"Independent Movies",6.0000,1
+2004,"Classic & Cult TV",5.0000,1
+2004,Documentaries,5.0000,1
+2004,Dramas,5.0000,7
+2004,"Crime TV Shows",4.0000,1
+2004,"Horror Movies",4.0000,1
+2004,Movies,4.0000,1
+2004,"International Movies",3.0000,2
+2004,"International TV Shows",2.0000,4
+2003,"Kids' TV",11.0000,1
+2003,"Children & Family Movies",8.0000,5
+2003,"Action & Adventure",6.7778,9
+2003,Comedies,5.3750,8
+2003,Dramas,5.2000,5
+2003,"Horror Movies",5.0000,2
+2003,"Classic & Cult TV",3.0000,2
+2003,"Anime Series",1.0000,1
+2003,"International TV Shows",1.0000,4
+2002,"Kids' TV",11.0000,1
+2002,"Action & Adventure",8.6667,9
+2002,"Children & Family Movies",8.0000,1
+2002,Comedies,7.5000,2
+2002,Documentaries,6.0000,2
+2002,Thrillers,6.0000,1
+2002,Dramas,3.3750,8
+2002,"International TV Shows",3.0000,2
+2001,"Kids' TV",11.0000,1
+2001,"Children & Family Movies",8.5000,2
+2001,Comedies,7.0000,7
+2001,Thrillers,6.0000,1
+2001,Dramas,5.4000,5
+2001,"Stand-Up Comedy",5.0000,1
+2001,"Action & Adventure",4.8750,8
+2001,"British TV Shows",1.5000,2
+2001,"Anime Series",1.0000,1
+2000,"Kids' TV",11.0000,1
+2000,"Children & Family Movies",7.8000,5
+2000,"Action & Adventure",7.7500,4
+2000,"Horror Movies",6.0000,1
+2000,"TV Action & Adventure",5.0000,1
+2000,Comedies,4.2500,4
+2000,Dramas,3.8000,5
+2000,"Anime Series",3.0000,1
+1999,"Kids' TV",11.0000,1
+1999,"Children & Family Movies",9.0000,2
+1999,Comedies,8.0000,2
+1999,"Action & Adventure",5.5000,2
+1999,"TV Action & Adventure",5.0000,1
+1999,Dramas,3.5000,2
+1999,"British TV Shows",1.0000,1
+1999,"Horror Movies",1.0000,1
+1999,"TV Comedies",1.0000,1
+1998,"Cult Movies",12.0000,1
+1998,"Children & Family Movies",9.0000,1
+1998,"Kids' TV",9.0000,2
+1998,Comedies,6.0000,5
+1998,Documentaries,6.0000,1
+1998,Thrillers,6.0000,1
+1998,"Action & Adventure",5.6667,3
+1998,Dramas,3.6667,6
+1998,"Stand-Up Comedy",2.0000,1
+1998,"Anime Series",1.0000,1
+1997,"Kids' TV",9.0000,4
+1997,"Children & Family Movies",8.0000,1
+1997,Comedies,7.3333,3
+1997,"Action & Adventure",6.0000,7
+1997,"Horror Movies",6.0000,1
+1997,Thrillers,6.0000,1
+1997,Dramas,5.7500,4
+1996,"Kids' TV",11.0000,2
+1996,Comedies,6.2500,4
+1996,Dramas,6.2500,4
+1996,"Action & Adventure",6.0000,1
+1996,Thrillers,6.0000,1
+1996,Docuseries,5.0000,1
+1995,"Kids' TV",11.0000,1
+1995,"Children & Family Movies",8.5000,2
+1995,Comedies,8.0000,2
+1995,Dramas,5.5000,4
+1995,"Action & Adventure",4.6000,5
+1995,"Anime Series",1.0000,1
+1994,"Children & Family Movies",8.0000,1
+1994,"Classic Movies",8.0000,3
+1994,"Action & Adventure",5.6667,3
+1994,Documentaries,4.5000,2
+1994,Comedies,3.0000,2
+1994,"TV Shows",2.0000,1
+1994,Dramas,1.0000,1
+1993,"Classic Movies",7.5000,4
+1993,Dramas,6.8000,5
+1993,"Action & Adventure",5.0000,3
+1993,"TV Action & Adventure",5.0000,1
+1993,"Stand-Up Comedy",4.0000,1
+1993,"TV Dramas",4.0000,1
+1993,"Kids' TV",3.0000,1
+1993,Comedies,1.0000,1
+1992,"Classic Movies",6.6667,3
+1992,"Cult Movies",6.0000,1
+1992,Comedies,5.5000,2
+1992,"Classic & Cult TV",5.0000,1
+1992,"Stand-Up Comedy",5.0000,2
+1992,"Action & Adventure",3.0000,3
+1992,"British TV Shows",3.0000,1
+1991,"Classic Movies",12.0000,1
+1991,Comedies,12.0000,1
+1991,"Children & Family Movies",9.0000,1
+1991,"Action & Adventure",6.0000,1
+1991,Dramas,6.0000,3
+1991,"Stand-Up Comedy",4.0000,4
+1991,"TV Shows",2.0000,1
+1990,Dramas,11.3333,3
+1990,"Classic Movies",6.0000,1
+1990,"Classic & Cult TV",4.5000,2
+1990,"Action & Adventure",4.0000,1
+1990,Comedies,4.0000,1
+1990,Documentaries,1.0000,1
+1990,Docuseries,1.0000,1
+1990,"Stand-Up Comedy",1.0000,1
+1989,"Stand-Up Comedy",12.0000,1
+1989,"Children & Family Movies",8.0000,1
+1989,"Kids' TV",7.0000,1
+1989,Dramas,4.7500,4
+1989,"Action & Adventure",4.0000,3
+1989,Comedies,1.0000,1
+1988,Documentaries,10.0000,1
+1988,Dramas,8.5000,4
+1988,"Classic Movies",6.0000,1
+1988,Comedies,5.0000,1
+1988,Movies,5.0000,1
+1988,"TV Dramas",5.0000,1
+1988,Docuseries,2.0000,1
+1988,"Action & Adventure",1.0000,1
+1987,"Cult Movies",12.0000,1
+1987,Dramas,12.0000,1
+1987,"Action & Adventure",6.0000,1
+1987,"Stand-Up Comedy",4.0000,1
+1986,Dramas,9.6667,3
+1986,"Children & Family Movies",9.0000,1
+1986,"Classic Movies",6.0000,1
+1986,"Anime Series",5.0000,1
+1986,"Action & Adventure",4.0000,2
+1986,"TV Dramas",1.0000,1
+1985,Comedies,12.0000,1
+1985,Dramas,8.0000,1
+1985,"Action & Adventure",6.5000,2
+1985,"Anime Series",4.0000,1
+1985,"Horror Movies",4.0000,1
+1984,"Action & Adventure",6.6667,3
+1984,Dramas,5.0000,1
+1984,Comedies,3.0000,2
+1983,"Stand-Up Comedy",12.0000,1
+1983,Dramas,2.5000,2
+1983,"Action & Adventure",1.0000,3
+1982,"Children & Family Movies",8.0000,1
+1982,Comedies,6.0000,1
+1982,Dramas,4.5000,2
+1982,"Action & Adventure",3.5000,2
+1981,"Classic Movies",9.0000,2
+1981,"Action & Adventure",8.0000,1
+1981,"Anime Series",7.0000,1
+1981,Comedies,5.0000,1
+1980,"Action & Adventure",6.2500,4
+1980,"Classic Movies",6.0000,1
+1980,Dramas,1.0000,1
+1979,"Action & Adventure",10.0000,1
+1979,Dramas,8.0000,1
+1979,"Classic Movies",6.0000,1
+1979,"Classic & Cult TV",5.0000,1
+1979,"Stand-Up Comedy",4.0000,1
+1978,"Classic Movies",8.0000,1
+1978,Dramas,4.0000,1
+1978,"Action & Adventure",3.6667,3
+1978,"Children & Family Movies",2.0000,1
+1977,"Children & Family Movies",9.0000,1
+1977,"British TV Shows",5.0000,1
+1977,Documentaries,4.0000,1
+1976,"Action & Adventure",8.0000,2
+1976,Dramas,8.0000,1
+1976,"Classic Movies",6.0000,2
+1976,Comedies,5.0000,1
+1975,"Action & Adventure",4.3333,3
+1975,"Classic Movies",4.0000,1
+1974,Dramas,13.0000,1
+1974,"British TV Shows",12.0000,1
+1974,"Children & Family Movies",9.0000,1
+1974,"Classic Movies",7.0000,2
+1974,"Cult Movies",6.0000,1
+1974,Comedies,1.0000,1
+1973,"Children & Family Movies",9.0000,1
+1973,"Action & Adventure",6.7500,4
+1973,"Classic Movies",6.0000,1
+1973,Documentaries,6.0000,1
+1973,Dramas,4.0000,1
+1972,"Action & Adventure",6.0000,1
+1972,"International TV Shows",1.0000,1
+1971,"Action & Adventure",5.0000,1
+1971,"Classic Movies",5.0000,1
+1970,Comedies,5.0000,1
+1969,Dramas,1.0000,1
+1968,"Action & Adventure",10.0000,1
+1968,"Classic Movies",6.0000,1
+1968,"Classic & Cult TV",5.0000,1
+1967,"Classic Movies",5.0000,2
+1967,"Classic & Cult TV",2.0000,1
+1966,Dramas,5.0000,1
+1965,"Classic Movies",5.5000,2
+1963,"Classic & Cult TV",5.0000,1
+1962,"Classic Movies",6.0000,1
+1962,"Action & Adventure",5.0000,1
+1962,Comedies,5.0000,1
+1960,"Action & Adventure",5.0000,1
+1960,Comedies,5.0000,1
+1960,"Classic Movies",1.0000,1
+1959,Dramas,5.0000,1
+1958,"Classic Movies",10.5000,2
+1956,"Action & Adventure",9.0000,1
+1955,"Classic Movies",10.0000,1
+1954,"Children & Family Movies",2.0000,1
+1947,"Classic Movies",1.0000,1
+1946,"Classic Movies",5.0000,2
+1946,"TV Shows",1.0000,1
+1945,"Classic Movies",2.0000,3
+1944,"Classic Movies",3.6667,3
+1943,Documentaries,6.5000,2
+1943,"Classic Movies",5.0000,1
+1942,"Classic Movies",3.5000,2
+1925,"TV Shows",5.0000,1

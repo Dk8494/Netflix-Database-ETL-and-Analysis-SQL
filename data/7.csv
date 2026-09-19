@@ -1,0 +1,1001 @@
+director_name,cast_members,collaboration_count,average_rating
+"S.S. Rajamouli","Tamannaah Bhatia",7,2.2857
+"S.S. Rajamouli",Sathyaraj,7,2.2857
+"S.S. Rajamouli","Rana Daggubati",7,2.2857
+"S.S. Rajamouli","Ramya Krishnan",7,2.2857
+"S.S. Rajamouli",Prabhas,7,2.2857
+"S.S. Rajamouli",Nassar,7,2.2857
+"S.S. Rajamouli","Anushka Shetty",7,2.2857
+"Yılmaz Erdoğan","Yılmaz Erdoğan",6,6.5000
+"Tilak Shetty","Smita Malhotra",6,6.3333
+"Hakan Algül","Ata Demirer",6,3.3333
+"Robb Wells","John Paul Tremblay",5,7.2000
+"Robb Wells","Mike Smith",5,7.2000
+"Robb Wells","Pat Roach",5,7.2000
+"Robb Wells","Robb Wells",5,7.2000
+"John Paul Tremblay","Robb Wells",5,7.2000
+"John Paul Tremblay","Pat Roach",5,7.2000
+"John Paul Tremblay","Mike Smith",5,7.2000
+"John Paul Tremblay","John Paul Tremblay",5,7.2000
+"Mike Smith","Robb Wells",5,7.2000
+"Mike Smith","Pat Roach",5,7.2000
+"Mike Smith","Mike Smith",5,7.2000
+"Mike Smith","John Paul Tremblay",5,7.2000
+"Martin Scorsese","Harvey Keitel",5,6.4000
+"Ishi Rudell","Andrea Libman",5,5.4000
+"Ishi Rudell","Ashleigh Ball",5,5.4000
+"Ishi Rudell","Rebecca Shoichet",5,5.4000
+"Ishi Rudell","Tabitha St. Germain",5,5.4000
+"Ishi Rudell","Tara Strong",5,5.4000
+"Mike Clattenburg","Robb Wells",5,4.8000
+"Mike Clattenburg","John Paul Tremblay",5,4.8000
+"Mike Clattenburg","John Dunsworth",5,4.8000
+"Toshiya Shinohara","Houko Kuwashima",4,10.0000
+"Toshiya Shinohara","Kappei Yamaguchi",4,10.0000
+"Toshiya Shinohara","Koji Tsujitani",4,10.0000
+"Toshiya Shinohara","Kumiko Watanabe",4,10.0000
+"Toshiya Shinohara","Satsuki Yukino",4,10.0000
+"Steven Spielberg","Harrison Ford",4,9.0000
+"Robert Vince","David DeLuise",4,8.5000
+"Robert Rodriguez","Alexa PenaVega",4,8.0000
+"Robert Rodriguez","Daryl Sabara",4,8.0000
+"William Lau","Kate Higgins",4,7.0000
+"William Lau","America Young",4,7.0000
+"Jeremy Saulnier","Macon Blair",4,7.0000
+"Wilson Yip","Donnie Yen",4,6.5000
+"Tilak Shetty","Deepak Chachra",4,6.0000
+"Tilak Shetty","Damandeep Singh Baggan",4,6.0000
+"Martin Scorsese","Robert De Niro",4,6.0000
+"Mike Smith","John Dunsworth",4,6.0000
+"Lana Wachowski","Hugo Weaving",4,6.0000
+"Lilly Wachowski","Hugo Weaving",4,6.0000
+"Jesse V. Johnson","Scott Adkins",4,6.0000
+"John Paul Tremblay","John Dunsworth",4,6.0000
+"Quentin Tarantino","Samuel L. Jackson",4,6.0000
+"Robb Wells","John Dunsworth",4,6.0000
+"Leslie Small","Kevin Hart",4,5.5000
+"Mike Clattenburg","Patrick Roach",4,5.0000
+"Mike Clattenburg","Lucy Decoutere",4,5.0000
+"Mike Clattenburg","Barrie Dunn",4,5.0000
+"Hakan Algül","Salih Kalyon",4,4.5000
+"Fernando Ayllón","Ricardo Quevedo",4,4.0000
+"David Dhawan","Anupam Kher",4,4.0000
+"Hakan Algül","Demet Akbağ",4,3.7500
+"Poj Arnon","Wiradit Srimalai",4,3.2500
+"Detlev Buck","Michael Maertens",4,2.0000
+"Detlev Buck","Louis Held",4,2.0000
+"Detlev Buck","Lisa-Marie Koroll",4,2.0000
+"Detlev Buck","Lina Larissa Strahl",4,2.0000
+"Umesh Mehra","Mithun Chakraborty",4,1.7500
+"Umesh Mehra","Gulshan Grover",4,1.0000
+"Wenn V. Deramas","Vice Ganda",4,1.0000
+"Hiroyuki Seshita","Kana Hanazawa",4,1.0000
+"Hiroyuki Seshita","Kazuhiro Yamaji",4,1.0000
+"Hiroyuki Seshita","Mamoru Miyano",4,1.0000
+"Hiroyuki Seshita","Takahiro Sakurai",4,1.0000
+"Hiroyuki Seshita","Yuki Kaji",4,1.0000
+"S.S. Rajamouli",Sudeep,4,1.0000
+"David Batty","Abdelilah Wahbi",4,1.0000
+"David Batty","Ait Youssef Youssef",4,1.0000
+"David Batty","El Mahmoudi M'Barek",4,1.0000
+"David Batty","Mourad Zaoui",4,1.0000
+"David Batty","Selva Rasalingam",4,1.0000
+"Kazuchika Kise","Yoji Ueda",3,12.0000
+"Kazuchika Kise","Miyuki Sawashiro",3,12.0000
+"Kazuchika Kise","Maaya Sakamoto",3,12.0000
+"Kazuchika Kise","Kenichirou Matsuda",3,12.0000
+"Kazuchika Kise","Ikkyu Juku",3,12.0000
+"Yılmaz Erdoğan","Cezmi Baskın",3,9.6667
+"Toshiya Shinohara","Ken Narita",3,9.3333
+"Toshiya Shinohara","Noriko Hidaka",3,9.3333
+"Jay Karas","Bill Burr",3,9.3333
+"Steven Soderbergh","Matt Damon",3,8.6667
+"Robert Vince","Diedrich Bader",3,8.6667
+"Robert Vince","George Newbern",3,8.6667
+"Robert Vince","Makenzie Moss",3,8.6667
+"Robert Vince","John Ratzenberger",3,8.3333
+"Robert Vince","Kaitlyn Maher",3,8.3333
+"Robert Vince","Reggie De Leon",3,8.3333
+"Yılmaz Erdoğan","Demet Akbağ",3,8.3333
+"Yılmaz Erdoğan","Altan Erkekli",3,8.3333
+"Robert Rodriguez","Danny Trejo",3,8.0000
+"Sylvester Stallone","Tony Burton",3,8.0000
+"Sylvester Stallone","Talia Shire",3,8.0000
+"Sylvester Stallone","Sylvester Stallone",3,8.0000
+"Sylvester Stallone","Carl Weathers",3,8.0000
+"Sylvester Stallone","Burt Young",3,8.0000
+"Kevin Smith","Justin Long",3,7.3333
+"Kevin Smith","Jason Mewes",3,7.3333
+"Wilson Yip","Lynn Hung",3,7.3333
+"William Lau","Laura Bailey",3,7.0000
+"William Lau","Erin Fitzgerald",3,7.0000
+"Tilak Shetty","Baba Sehgal",3,7.0000
+"Steve Sacks","Cam Clarke",3,7.0000
+"Steve Sacks","Erin Fitzgerald",3,7.0000
+"Asit Mohapatra",Disha,3,7.0000
+"Asit Mohapatra","Jigna Bharadhwaj",3,7.0000
+"Asit Mohapatra","Julie Tejwani",3,7.0000
+"Asit Mohapatra","Lalit Agarwal",3,7.0000
+"Asit Mohapatra","Rajesh Kawa",3,7.0000
+"Asit Mohapatra","Rajesh Shukla",3,7.0000
+"Asit Mohapatra",Raju,3,7.0000
+"Asit Mohapatra","Rupa Bhimani",3,7.0000
+"Asit Mohapatra","SABINA MALIK",3,7.0000
+"Sooraj R. Barjatya","Alok Nath",3,6.3333
+"Sooraj R. Barjatya","Mohnish Bahl",3,6.3333
+"Sooraj R. Barjatya","Salman Khan",3,6.3333
+"Chia-Liang Liu","Hou Hsiao",3,6.3333
+"Chia-Liang Liu","Gordon Liu",3,6.3333
+"Cheh Chang","Meng Lo",3,6.0000
+"Ashutosh Gowariker","Rajesh Vivek",3,6.0000
+"Akiva Schaffer","Andy Samberg",3,6.0000
+"Lana Wachowski","Laurence Fishburne",3,6.0000
+"Lana Wachowski","Keanu Reeves",3,6.0000
+"Lana Wachowski","Carrie-Anne Moss",3,6.0000
+"Lilly Wachowski","Carrie-Anne Moss",3,6.0000
+"Lilly Wachowski","Keanu Reeves",3,6.0000
+"Lilly Wachowski","Laurence Fishburne",3,6.0000
+"Kevin Smith","Jennifer Schwalbach",3,6.0000
+"Quentin Tarantino","Tim Roth",3,6.0000
+"Munjal Shroff","Smita Malhotra",3,5.6667
+"Munjal Shroff","Damandeep Singh Baggan",3,5.6667
+"Ishi Rudell","Nicole Oliver",3,5.6667
+"Dustin McKenzie","Laura Bailey",3,5.3333
+"Dustin McKenzie","Kate Higgins",3,5.3333
+"Dustin McKenzie","Erin Fitzgerald",3,5.3333
+"Dustin McKenzie","Cam Clarke",3,5.3333
+"Dustin McKenzie","Audu Paden",3,5.3333
+"Edward Cotterill","Rachael Stirling",3,5.0000
+"Vivieno Caldinelli","Jonny Gray",3,5.0000
+"Vivieno Caldinelli","Caroline Rhea",3,5.0000
+"Vivieno Caldinelli","Callan Potter",3,5.0000
+"Vicky Matthews","Samuel West",3,5.0000
+"Rajkumar Hirani","Boman Irani",3,5.0000
+"Mike Clattenburg","Sarah Dunsworth",3,4.6667
+"Hakan Algül","Tanju Tuncel",3,4.6667
+"Hakan Algül","Özge Borak",3,4.6667
+"Ishi Rudell","Cathy Weseluck",3,4.3333
+"Jan Suter","Carlos Ballarta",3,4.0000
+"Jan Suter","Sofía Niño de Rivera",3,4.0000
+"Michael Simon","Jeff Dunham",3,4.0000
+"Toshiyuki Kubooka","Aki Toyosaki",3,4.0000
+"Toshiyuki Kubooka","Hiroaki Iwanaga",3,4.0000
+"Toshiyuki Kubooka","Kazuki Yao",3,4.0000
+"Toshiyuki Kubooka","Minako Kotobuki",3,4.0000
+"Toshiyuki Kubooka","Takahiro Fujiwara",3,4.0000
+"Toshiyuki Kubooka","Takahiro Sakurai",3,4.0000
+"Toshiyuki Kubooka","Toa Yukinari",3,4.0000
+"Toshiyuki Kubooka","Yoshiro Matsumoto",3,4.0000
+"Toshiyuki Kubooka","Yuki Kaji",3,4.0000
+"Walter C. Miller","Sam Kinison",3,4.0000
+"Clay Glen","Emily Morris",3,4.0000
+"Cem Yılmaz","Cem Yılmaz",3,4.0000
+"Cem Yılmaz","Bahtiyar Engin",3,4.0000
+"Stan Lathan","Dave Chappelle",3,4.0000
+"S.S. Rajamouli",Subbaraju,3,4.0000
+"Raúl Campos","Sofía Niño de Rivera",3,4.0000
+"Rocky Soraya","Luna Maya",3,4.0000
+"Rocky Soraya","Sara Wijayanto",3,4.0000
+"Fernando Ayllón","Iván Marín",3,4.0000
+"Ashwin Saravanan","Anish Kuruvilla",3,4.0000
+"Ashwin Saravanan","David Solomon Raja",3,4.0000
+"Ashwin Saravanan","Parvathi T",3,4.0000
+"Ashwin Saravanan","Ramya Subramanian",3,4.0000
+"Ashwin Saravanan","Sanchana Natarajan",3,4.0000
+"Ashwin Saravanan","Taapsee Pannu",3,4.0000
+"Ashwin Saravanan",Vinodhini,3,4.0000
+"Alastair Fothergill","David Attenborough",3,4.0000
+"Sunil Sukthankar","Devika Daftardar",3,3.6667
+"Sumitra Bhave","Devika Daftardar",3,3.6667
+"Cathy Garcia-Molina","Joross Gamboa",3,3.6667
+"Cathy Garcia-Molina","John Lloyd Cruz",3,3.6667
+"Cathy Garcia-Molina","Al Tantay",3,3.6667
+"Hakan Algül","Tarık Ünlüoğlu",3,3.6667
+"Johnnie To","Louis Koo",3,3.3333
+"Johnnie To","Gao Yuanyuan",3,3.3333
+"Neeraj Pandey","Anupam Kher",3,3.3333
+"Mohamed Hamdy","Mohamed Ragab",3,3.0000
+"Johnnie To","Lam Suet",3,3.0000
+"Fernando Ayllón","Liss Pereira",3,3.0000
+"Vishal Bhardwaj","Shahid Kapoor",3,3.0000
+"Rakeysh Omprakash Mehra","Om Puri",3,3.0000
+"Poj Arnon","Yingsak Chonglertjetsadawong",3,3.0000
+"Poj Arnon","Kohtee Aramboy",3,3.0000
+"Poj Arnon","Jaturong Mokjok",3,3.0000
+"Poj Arnon","Ekkachai Srivichai",3,3.0000
+"Conrad Helten","Erica Lindbeck",3,2.6667
+"Detlev Buck","Winnie Böwe",3,2.3333
+"Detlev Buck","Martin Seifert",3,2.3333
+"Detlev Buck","Fabian Buch",3,2.3333
+"Detlev Buck","Charly Hübner",3,2.3333
+"Subhash Ghai","Amrish Puri",3,2.3333
+"Angga Dwimas Sasongko","Jajang C. Noer",3,2.3333
+"Angga Dwimas Sasongko","Chicco Jerikho",3,2.3333
+Priyadarshan,"Rajpal Yadav",3,2.3333
+"Wenn V. Deramas","Ai-Ai de las Alas",3,2.3333
+"Sermiyan Midyat","Sermiyan Midyat",3,2.0000
+"Kunle Afolayan","Kunle Afolayan",3,2.0000
+"Kıvanç Baruönü","Ezgi Mola",3,2.0000
+"Kobun Shizuno","Yuki Kaji",3,1.0000
+"Kobun Shizuno","Tomokazu Sugita",3,1.0000
+"Kobun Shizuno","Takahiro Sakurai",3,1.0000
+"Kobun Shizuno","Mamoru Miyano",3,1.0000
+"Kobun Shizuno","Kenyu Horiuchi",3,1.0000
+"Kobun Shizuno","Kenta Miyake",3,1.0000
+"Kobun Shizuno","Kazuya Nakai",3,1.0000
+"Kobun Shizuno","Kazuhiro Yamaji",3,1.0000
+"Kobun Shizuno","Kana Hanazawa",3,1.0000
+"Kobun Shizuno","Junichi Suwabe",3,1.0000
+"Kobun Shizuno","Daisuke Ono",3,1.0000
+"Kıvanç Baruönü","Eda Ece",3,1.0000
+"David Batty","Abdelaziz N'Mila",3,1.0000
+"Note Chern-Yim","Note Chern-Yim",3,1.0000
+"Masahiko Murata","Chie Nakamura",3,1.0000
+"Masahiko Murata","Junko Takeuchi",3,1.0000
+"Farah Khan","Shah Rukh Khan",3,1.0000
+"Hiroyuki Seshita","Daisuke Ono",3,1.0000
+"Hiroyuki Seshita","Junichi Suwabe",3,1.0000
+"Hiroyuki Seshita","Kazuya Nakai",3,1.0000
+"Hiroyuki Seshita","Kenta Miyake",3,1.0000
+"Hiroyuki Seshita","Kenyu Horiuchi",3,1.0000
+"Hiroyuki Seshita","Tomokazu Sugita",3,1.0000
+"Rajiv Mehra","Gulshan Grover",3,1.0000
+"Bedran Güzel","İbrahim Büyükak",3,1.0000
+"B. V. Nandini Reddy",Urvashi,3,1.0000
+"B. V. Nandini Reddy","Teja Sajja",3,1.0000
+"B. V. Nandini Reddy","Samantha Ruth Prabhu",3,1.0000
+"B. V. Nandini Reddy","Rao Ramesh",3,1.0000
+"B. V. Nandini Reddy",Rajendraprasad,3,1.0000
+"B. V. Nandini Reddy",Pragathi,3,1.0000
+"B. V. Nandini Reddy","Naga Shourya",3,1.0000
+"B. V. Nandini Reddy",Lakshmi,3,1.0000
+"B. V. Nandini Reddy","Jagapathi Babu",3,1.0000
+"B. V. Nandini Reddy",Aishwarya,3,1.0000
+"Noriyuki Abe","Ryotaro Okiayu",2,12.0000
+"Noriyuki Abe","Masakazu Morita",2,12.0000
+"Noriyuki Abe","Kentarô Itô",2,12.0000
+"Noriyuki Abe","Fumiko Orikasa",2,12.0000
+"Kazuchika Kise","Tarusuke Shingaki",2,12.0000
+"Kazuchika Kise","Takuro Nakakuni",2,12.0000
+"Kazuchika Kise","Kazuya Nakai",2,12.0000
+"Yılmaz Erdoğan","İclal Aydın",2,12.0000
+"Warren P. Sonoda","Tom Green",2,12.0000
+"Kevin Smith","Harley Quinn Smith",2,11.0000
+"Anirban Majumder","Sonal Kaushal",2,11.0000
+"Anirban Majumder","Sabina Malik",2,11.0000
+"Anirban Majumder","Rupa Bhimani",2,11.0000
+"Anirban Majumder","Rajesh Kawa",2,11.0000
+"Anirban Majumder","Julie Tejwani",2,11.0000
+"Anirban Majumder","Jigna Bharadhwaj",2,11.0000
+"Barry Sonnenfeld","Will Smith",2,10.0000
+"Barry Sonnenfeld","Tony Shalhoub",2,10.0000
+"Barry Sonnenfeld","Tommy Lee Jones",2,10.0000
+"Barry Sonnenfeld","Rip Torn",2,10.0000
+"Alfonso Cuarón","Daniel Giménez Cacho",2,10.0000
+McG,"Cameron Diaz",2,10.0000
+McG,"Crispin Glover",2,10.0000
+McG,"Drew Barrymore",2,10.0000
+McG,"Lucy Liu",2,10.0000
+McG,"Luke Wilson",2,10.0000
+McG,"Matt LeBlanc",2,10.0000
+"Ron Howard","Woody Harrelson",2,10.0000
+"Ron Howard","Thandie Newton",2,10.0000
+"Ron Howard","Phoebe Waller-Bridge",2,10.0000
+"Ron Howard","Paul Bettany",2,10.0000
+"Ron Howard","Joonas Suotamo",2,10.0000
+"Ron Howard","Emilia Clarke",2,10.0000
+"Ron Howard","Donald Glover",2,10.0000
+"Ron Howard","Alden Ehrenreich",2,10.0000
+"Terry Gilliam","Heath Ledger",2,10.0000
+"Steven Soderbergh","Andy Garcia",2,10.0000
+"Steven Soderbergh","Bernie Mac",2,10.0000
+"Steven Soderbergh","Brad Pitt",2,10.0000
+"Steven Soderbergh","Casey Affleck",2,10.0000
+"Steven Soderbergh","Don Cheadle",2,10.0000
+"Steven Soderbergh","George Clooney",2,10.0000
+"Steven Soderbergh","Scott Caan",2,10.0000
+"Gabriele Muccino","Will Smith",2,10.0000
+"Larry Latham","Dom DeLuise",2,9.0000
+"Larry Latham","Lacey Chabert",2,9.0000
+"Larry Latham","Nehemiah Persoff",2,9.0000
+"Larry Latham","Pat Musick",2,9.0000
+"Larry Latham","Thomas Dekker",2,9.0000
+"Kevin Smith","Harley Morenstein",2,9.0000
+"Karyn Kusama","Mike Doyle",2,9.0000
+"Karyn Kusama","Lindsay Burdge",2,9.0000
+"Jeremy Saulnier","Stacy Rock",2,9.0000
+"John G. Avildsen","Burgess Meredith",2,9.0000
+"John G. Avildsen","Burt Young",2,9.0000
+"John G. Avildsen","Sylvester Stallone",2,9.0000
+"John G. Avildsen","Talia Shire",2,9.0000
+"Chad Van De Keere","Ray Liotta",2,9.0000
+"Chad Van De Keere","Matthew Lillard",2,9.0000
+"Chad Van De Keere","Emilio Estevez",2,9.0000
+"Chad Van De Keere","Ariel Winter",2,9.0000
+"Steven Spielberg","Karen Allen",2,9.0000
+"Steven Spielberg","John Rhys-Davies",2,9.0000
+"Steven Spielberg","Denholm Elliott",2,9.0000
+"Michael D. Black","Fred Tatasciore",2,9.0000
+"Phil Weinstein","Maurice LaMarche",2,9.0000
+"Phil Weinstein","Jodi Benson",2,9.0000
+"Phil Weinstein","Charles Fleischer",2,9.0000
+"Robert Vince","Mackenzie Sol",2,8.5000
+"Apoorva Lakhia","Shabbir Ahluwalia",2,8.5000
+"Apoorva Lakhia","Sunil Shetty",2,8.5000
+"Apoorva Lakhia","Vivek Oberoi",2,8.5000
+"Sooraj R. Barjatya","Reema Lagoo",2,8.5000
+"Sam Raimi","J.K. Simmons",2,8.0000
+"Sam Raimi","Rosemary Harris",2,8.0000
+"Shlok Sharma","Shweta Tripathi",2,8.0000
+"Terry Gilliam","Johnny Depp",2,8.0000
+"Sylvester Stallone","Burgess Meredith",2,8.0000
+"Sudhir Mishra","Chitrangada Singh",2,8.0000
+"Ryan Polito","John Mulaney",2,8.0000
+"Rian Johnson","Joseph Gordon-Levitt",2,8.0000
+"Rian Johnson","Noah Segan",2,8.0000
+"Robb Wells","Jacob Rolfe",2,8.0000
+"Robb Wells","Marguerite McNeil",2,8.0000
+"Robert Rodriguez","Alan Cumming",2,8.0000
+"Robert Rodriguez","Antonio Banderas",2,8.0000
+"Robert Rodriguez","Carla Gugino",2,8.0000
+"Robert Rodriguez","Cheech Marin",2,8.0000
+"Robert Rodriguez","Ricardo Montalban",2,8.0000
+"Robert Vince","David Milchard",2,8.0000
+"Joram Lürsen","Jacob Derwig",2,8.0000
+"Isaac Ezban","Humberto Busto",2,8.0000
+"John Paul Tremblay","Marguerite McNeil",2,8.0000
+"John Paul Tremblay","Jacob Rolfe",2,8.0000
+"James Wan","Patrick Wilson",2,8.0000
+"Zoe Berriatúa","Macarena Gómez",2,8.0000
+"Wilson Yip","Kent Cheng",2,8.0000
+"Toshiya Shinohara","Kenichi Ogata",2,8.0000
+"Don Michael Paul","Zach McGowan",2,8.0000
+"Lana Wachowski","James D'Arcy",2,8.0000
+"Lars von Trier","Charlotte Gainsbourg",2,8.0000
+"Lars von Trier","Christian Slater",2,8.0000
+"Lars von Trier","Shia LaBeouf",2,8.0000
+"Lars von Trier","Sophie Kennedy Clark",2,8.0000
+"Lars von Trier","Stacy Martin",2,8.0000
+"Lars von Trier","Uma Thurman",2,8.0000
+"Lasse Hallström","Helen Mirren",2,8.0000
+"Leo Riley","Adrian Pasdar",2,8.0000
+"Leo Riley","David Kaye",2,8.0000
+"Leo Riley","Dee Bradley Baker",2,8.0000
+"Leo Riley","Fred Tatasciore",2,8.0000
+"Leo Riley","Robin Atkin Downes",2,8.0000
+"Lilly Wachowski","James D'Arcy",2,8.0000
+"Kevin Smith","Johnny Depp",2,8.0000
+"Kevin Smith","Haley Joel Osment",2,8.0000
+"Kevin Smith","Genesis Rodriguez",2,8.0000
+"Kevin Layne",Sommore,2,8.0000
+"Manny Rodriguez","Jeff Dunham",2,8.0000
+"Clint Eastwood","Marcia Gay Harden",2,8.0000
+"Dani de la Torre","Fernando Cayo",2,8.0000
+"Dani de la Torre","Luis Tosar",2,8.0000
+"Daniel Alfredson","Anthony Hopkins",2,8.0000
+"Dave Higby","Russell Peters",2,8.0000
+"Ömer Faruk Sorak","Sebnem Sönmez",2,8.0000
+"Ömer Faruk Sorak","Cezmi Baskın",2,8.0000
+"Ömer Faruk Sorak","Cem Yılmaz",2,8.0000
+"Ömer Faruk Sorak","Altan Erkekli",2,8.0000
+"Mitch Schauer","Fred Tatasciore",2,8.0000
+"Mike Smith","Marguerite McNeil",2,8.0000
+"Mike Smith","Jacob Rolfe",2,8.0000
+"Werner Herzog","Werner Herzog",2,7.5000
+"Anees Bazmee","Anil Kapoor",2,7.5000
+"Akiva Schaffer","Chris Parnell",2,7.0000
+"Akiva Schaffer","Jorma Taccone",2,7.0000
+"Martin Scorsese","Jodie Foster",2,7.0000
+"Munjal Shroff","Baba Sehgal",2,7.0000
+"Jani Lachauer","Rob Brydon",2,7.0000
+"Jani Lachauer","David Walliams",2,7.0000
+"Thomas Astruc","Stephanie Sheh",2,7.0000
+"Thomas Astruc","Selah Victor",2,7.0000
+"Thomas Astruc","Mela Lee",2,7.0000
+"Thomas Astruc","Max Mittelman",2,7.0000
+"Thomas Astruc","Keith Silverstein",2,7.0000
+"Thomas Astruc","Grant George",2,7.0000
+"Thomas Astruc","Erin Fitzgerald",2,7.0000
+"Thomas Astruc","Cristina Vee",2,7.0000
+"Thomas Astruc","Carrie Keranen",2,7.0000
+"Thomas Astruc","Bryce Papenbrook",2,7.0000
+"Thomas Astruc","Ben Diskin",2,7.0000
+"Terry Jones","Terry Jones",2,7.0000
+"Terry Jones","Terry Gilliam",2,7.0000
+"Terry Jones","Michael Palin",2,7.0000
+"Shyamal Chaulia","SABINA MALIK",2,7.0000
+"Terry Jones","John Cleese",2,7.0000
+"Terry Jones","Graham Chapman",2,7.0000
+"Terry Jones","Eric Idle",2,7.0000
+"Shyamal Chaulia","Rupa Bhimani",2,7.0000
+"Shyamal Chaulia",Raju,2,7.0000
+"Shyamal Chaulia","Rajesh Shukla",2,7.0000
+"Shyamal Chaulia","Rajesh Kawa",2,7.0000
+"Shyamal Chaulia","Lalit Agarwal",2,7.0000
+"Shyamal Chaulia","Julie Tejwani",2,7.0000
+"Shyamal Chaulia","Jigna Bharadhwaj",2,7.0000
+"Shyamal Chaulia",Disha,2,7.0000
+"Terry Jones","Carol Cleveland",2,7.0000
+"Steve Carr","Bobby Cannavale",2,7.0000
+"Steve Sacks","Cindy Robinson",2,7.0000
+"Steve Sacks","Evan Smith",2,7.0000
+"Steve Sacks","Kate Higgins",2,7.0000
+"Steve Sacks","Laura Bailey",2,7.0000
+"Robert Rodriguez","Jessica Alba",2,7.0000
+"Dustin McKenzie","Salli Saffioti",2,7.0000
+"Dustin McKenzie","Ogie Banks",2,7.0000
+"Dustin McKenzie","Evan Smith",2,7.0000
+"Dustin McKenzie","Debi Derryberry",2,7.0000
+"Dustin McKenzie","Cindy Robinson",2,7.0000
+"Dustin McKenzie","America Young",2,7.0000
+"Drake Doremus","Nicholas Hoult",2,7.0000
+"William Lau","Sue Swan",2,7.0000
+"William Lau","Salli Saffioti",2,7.0000
+"William Lau","Rachel Staman",2,7.0000
+"William Lau","Paula Rhodes",2,7.0000
+"William Lau","Karen Strassman",2,7.0000
+"William Lau","Celeste Henderson",2,7.0000
+"Lars von Trier","Stellan Skarsgård",2,6.6667
+"Ketan Mehta","Shah Rukh Khan",2,6.5000
+"Ketan Mehta","Paresh Rawal",2,6.5000
+"Ketan Mehta","Deepa Sahi",2,6.5000
+"Mahsun Kırmızıgül","Mahsun Kırmızıgül",2,6.5000
+"Jacob Kornbluth","Robert Reich",2,6.5000
+"Anu Menon","Rajat Kapoor",2,6.5000
+"Milan Luthria","Emraan Hashmi",2,6.5000
+"Milan Luthria","Ajay Devgn",2,6.5000
+"Yılmaz Erdoğan","Tolga Çevik",2,6.5000
+"Yılmaz Erdoğan","Cem Yılmaz",2,6.5000
+"Chia-Liang Liu","Chia-Liang Liu",2,6.5000
+"Cheh Chang","Sheng Chiang",2,6.0000
+"Cheh Chang","Li Wang",2,6.0000
+"Cheh Chang","Feng Lu",2,6.0000
+"Cheh Chang","Chien Sun",2,6.0000
+"David Michôd","Robert Pattinson",2,6.0000
+"David Mackenzie","Chris Pine",2,6.0000
+"Antoine Fuqua","Cole Hauser",2,6.0000
+"Jeremy Saulnier","David W. Thompson",2,6.0000
+"J.C. Chandor","Oscar Isaac",2,6.0000
+"Jeff Baena","Paul Weitz",2,6.0000
+"Jeff Baena","Paul Reiser",2,6.0000
+"Jeff Baena","Molly Shannon",2,6.0000
+"Jeff Baena","John C. Reilly",2,6.0000
+"Jeff Baena","Aubrey Plaza",2,6.0000
+"James McTeigue","Ben Miles",2,6.0000
+"Quentin Tarantino","Bruce Dern",2,6.0000
+"Quentin Tarantino","Demián Bichir",2,6.0000
+"Quentin Tarantino","James Parks",2,6.0000
+"Quentin Tarantino","Jennifer Jason Leigh",2,6.0000
+"Quentin Tarantino","Kurt Russell",2,6.0000
+"Quentin Tarantino","Michael Madsen",2,6.0000
+"Quentin Tarantino","Walton Goggins",2,6.0000
+"Lana Wachowski","Nona Gaye",2,6.0000
+"Lana Wachowski","Monica Bellucci",2,6.0000
+"Lana Wachowski","Lambert Wilson",2,6.0000
+"Lana Wachowski","Jada Pinkett Smith",2,6.0000
+"Lana Wachowski","Harry Lennix",2,6.0000
+"Lana Wachowski","Harold Perrineau",2,6.0000
+"Lana Wachowski","Gloria Foster",2,6.0000
+"Lilly Wachowski","Gloria Foster",2,6.0000
+"Lilly Wachowski","Harold Perrineau",2,6.0000
+"Lilly Wachowski","Harry Lennix",2,6.0000
+"Lilly Wachowski","Jada Pinkett Smith",2,6.0000
+"Lilly Wachowski","Lambert Wilson",2,6.0000
+"Lilly Wachowski","Monica Bellucci",2,6.0000
+"Lilly Wachowski","Nona Gaye",2,6.0000
+"Kevin Smith","Jeff Anderson",2,6.0000
+"Tim Story","Kevin Hart",2,6.0000
+"Wilson Yip","Simon Yam",2,6.0000
+"Wilson Yip","Louis Fan",2,6.0000
+"Wes Craven","Neve Campbell",2,6.0000
+"Wes Craven","Liev Schreiber",2,6.0000
+"Wes Craven","Jamie Kennedy",2,6.0000
+"Wes Craven","David Arquette",2,6.0000
+"Wes Craven","Courteney Cox",2,6.0000
+"Olivier Assayas","Lars Eidinger",2,6.0000
+"Olivier Assayas","Kristen Stewart",2,6.0000
+"Martin Scorsese","Joe Pesci",2,6.0000
+"Martin Scorsese","Stephen Graham",2,6.0000
+"Martin Scorsese","Victor Argo",2,6.0000
+"Noah Baumbach","Josh Hamilton",2,6.0000
+"Noah Baumbach","Dean Wareham",2,6.0000
+"Noah Baumbach","Adam Driver",2,6.0000
+"Nicolas Winding Refn","Ryan Gosling",2,6.0000
+"Neill Blomkamp","Sharlto Copley",2,6.0000
+"Mike Clattenburg","Mike Smith",2,6.0000
+"Michael Bay","Joe Pantoliano",2,6.0000
+"Michael Bay","Martin Lawrence",2,6.0000
+"Michael Bay","Theresa Randle",2,6.0000
+"Michael Bay","Will Smith",2,6.0000
+"Gregory Hoblit","Embeth Davidtz",2,6.0000
+"Derek Cianfrance","Ryan Gosling",2,6.0000
+"Frank Coraci","Adam Sandler",2,5.5000
+"Rajkumar Hirani","Aamir Khan",2,5.5000
+"Peter Hutchings","Peyton List",2,5.5000
+"Joe Camp","Cynthia Smith",2,5.5000
+"Joe Camp","Patsy Garrett",2,5.5000
+"Stanley Tong","Jackie Chan",2,5.5000
+"Sam Taplin","Samuel West",2,5.0000
+"Saratswadee Wongsomphet","Supanart Jittaleela",2,5.0000
+"Saratswadee Wongsomphet","Sushar Manaying",2,5.0000
+"Jerrold Tarog","Paulo Avelino",2,5.0000
+"Jerrold Tarog","Mon Confiado",2,5.0000
+"Jerrold Tarog","Jeffrey Quizon",2,5.0000
+"Jerrold Tarog","Arron Villaflor",2,5.0000
+"Jerrold Tarog","Alvin Anson",2,5.0000
+"Israel Adrián Caetano","Daniel Di Biase",2,5.0000
+"Gillian Robespierre","Jenny Slate",2,5.0000
+"Eli Craig","Tyler Labine",2,5.0000
+"Hakan Algül","Ayşenil Şamlıoğlu",2,5.0000
+"Clay Glen","Adam Tuominen",2,5.0000
+"Clay Glen","Elysia Markou",2,5.0000
+"Cathy Garcia-Molina","Sarah Geronimo",2,5.0000
+"Cathy Garcia-Molina","Rowell Santiago",2,5.0000
+"Cathy Garcia-Molina","Matet De Leon",2,5.0000
+"Cathy Garcia-Molina","Irma Adlawan",2,5.0000
+"Cathy Garcia-Molina","Dante Rivero",2,5.0000
+"David Michôd","Scoot McNairy",2,5.0000
+"David Dhawan",Govinda,2,5.0000
+"David Mackenzie","Sam Spruell",2,5.0000
+"David Dhawan","Satish Kaushik",2,5.0000
+"Bong Joon Ho","Tilda Swinton",2,5.0000
+"Antonio Serrano","Cecilia Suárez",2,5.0000
+"Ashutosh Gowariker","Daya Shankar Pandey",2,5.0000
+"Aziz Mirza","Shah Rukh Khan",2,5.0000
+"Aziz Mirza","Satish Shah",2,5.0000
+"Aziz Mirza","Juhi Chawla",2,5.0000
+"Anees Bazmee","Salman Khan",2,5.0000
+"Riri Riza","Cut Mini Theo",2,5.0000
+"Patrick Brice","Mark Duplass",2,5.0000
+"Oliver Twinch","Craig Sechler",2,5.0000
+"Noah Baumbach","Ben Stiller",2,5.0000
+"Nicolás López","Ramón Llao",2,5.0000
+"Nicolás López","Paz Bascuñán",2,5.0000
+"Nicolás López","Marcial Tagle",2,5.0000
+"Nicolás López","Ignacia Allamand",2,5.0000
+"Nicolás López","Ariel Levy",2,5.0000
+"Munjal Shroff","Deepak Chachra",2,5.0000
+"Mike Clattenburg","Tyrone Parsons",2,5.0000
+"Mike Clattenburg","Michael Jackson",2,5.0000
+"Mike Clattenburg","Cory Bowles",2,5.0000
+"Mike Birbiglia","Mike Birbiglia",2,5.0000
+"Latif Faiziyev","Zeenat Aman",2,5.0000
+"Lynn Shelton","Kaitlyn Dever",2,5.0000
+"Lynn Shelton","Louis Hobson",2,5.0000
+"Kasia Uscinska","Samuel West",2,5.0000
+"Tim Maltby","Alan Marriott",2,5.0000
+"Tim Maltby","Andrew Toth",2,5.0000
+"Tim Maltby","Cole Howard",2,5.0000
+"Tim Maltby","Jennifer Cameron",2,5.0000
+"Tim Maltby","Lee Tockar",2,5.0000
+"Tim Maltby","Maya Kay",2,5.0000
+"Yılmaz Erdoğan","Farah Zeynep Abdullah",2,5.0000
+"Yılmaz Erdoğan","Devrim Yakut",2,5.0000
+"Wilson Yip","Xing Yu",2,5.0000
+"Umesh Mehra","Zeenat Aman",2,5.0000
+"Vivieno Caldinelli","Peter Keleghan",2,5.0000
+"Vivieno Caldinelli","Kiana Madeira",2,5.0000
+"Vipul Amrutlal Shah","Akshay Kumar",2,5.0000
+"Yılmaz Erdoğan","Kıvanç Tatlıtuğ",2,4.5000
+"Yılmaz Erdoğan","Ahmet Mümtaz Taylan",2,4.5000
+"Umesh Mehra",Tanuja,2,4.5000
+"Ashutosh Gowariker","Kulbhushan Kharbanda",2,4.5000
+"Ashutosh Gowariker","Suhasini Mulay",2,4.5000
+"Andrew Duncan","Audu Paden",2,4.5000
+"Andrew Duncan","Cam Clarke",2,4.5000
+"Andrew Duncan","Erin Fitzgerald",2,4.5000
+"Andrew Duncan","Kate Higgins",2,4.5000
+"Andrew Duncan","Laura Bailey",2,4.5000
+"Audu Paden","Laura Bailey",2,4.5000
+"Audu Paden","Kate Higgins",2,4.5000
+"Audu Paden","Erin Fitzgerald",2,4.5000
+"Audu Paden","Audu Paden",2,4.5000
+"Dustin McKenzie","Julie Maddalena",2,4.5000
+"Dustin McKenzie","Jonathan Lipow",2,4.5000
+"Hakan Algül","Meray Ülgen",2,4.5000
+"Hakan Algül","Bican Günalan",2,4.5000
+"Selçuk Aydemir","Ulaş Torun",2,4.5000
+"Selçuk Aydemir","Şinasi Yurtsever",2,4.5000
+"Selçuk Aydemir","Rasim Öztekin",2,4.5000
+"Selçuk Aydemir","Murat Cemcir",2,4.5000
+"Selçuk Aydemir","Devrim Yakut",2,4.5000
+"Selçuk Aydemir","Barış Yıldız",2,4.5000
+"Selçuk Aydemir","Ahmet Kural",2,4.5000
+"Pratim D. Gupta","Ritwick Chakraborty",2,4.5000
+Onir,"Sanjay Suri",2,4.5000
+Onir,"Purab Kohli",2,4.5000
+Onir,"Juhi Chawla",2,4.5000
+"Neeraj Pandey","Jimmy Shergill",2,4.5000
+"Pang Ho-cheung","Shawn Yue",2,4.0000
+"Pang Ho-cheung","Miriam Chin Wah Yeung",2,4.0000
+"Matt Askem","Tim Minchin",2,4.0000
+"Matt Kugelman","Rachel Dratch",2,4.0000
+"Matt Kugelman","Roy Haylock",2,4.0000
+"Nagesh Kukunoor","Prateeksha Lonkar",2,4.0000
+"Nagesh Kukunoor","Girish Karnad",2,4.0000
+"Mike Clattenburg","Shelley Thompson",2,4.0000
+"Hasan Karacadağ","Elçin Atamgüç",2,4.0000
+"Hasan Karacadağ","Murat Seviş",2,4.0000
+"Hasan Karacadağ","Sultan Köroğlu Kılıç",2,4.0000
+"Fernando Ayllón","Rocío Tavera",2,4.0000
+"Fernando Ayllón","Nelson Polanía",2,4.0000
+"Fernando Ayllón","Lina Cardona",2,4.0000
+"Fernando Ayllón","Fabiola Posada",2,4.0000
+"Femi Oyeniran","Shone Romulus",2,4.0000
+"Femi Oyeniran","Nicky Slimting Walker",2,4.0000
+"Femi Oyeniran","Femi Oyeniran",2,4.0000
+"Femi Oyeniran","Dylan Duffus",2,4.0000
+"Femi Oyeniran","Ashley Chin",2,4.0000
+"Gajendra Ahire","Anjali Patil",2,4.0000
+"Gajendra Ahire","Kadambari Kadam",2,4.0000
+"Gajendra Ahire","Mihiresh Joshi",2,4.0000
+"Gajendra Ahire","Mugdha Chaphekar",2,4.0000
+"Gajendra Ahire","Nagraj Manjule",2,4.0000
+"Gajendra Ahire","Raghuvir Yadav",2,4.0000
+"Gajendra Ahire","Vedashree Mahajan",2,4.0000
+"Gary Howsam","John Dunsworth",2,4.0000
+"Gary Howsam","John Paul Tremblay",2,4.0000
+"Gary Howsam","Mike Smith",2,4.0000
+"Gary Howsam","Pat Roach",2,4.0000
+"Gary Howsam","Robb Wells",2,4.0000
+"Gastón Duprat","Andrea Frigerio",2,4.0000
+"Eric Idle","Eric Idle",2,4.0000
+"A.R. Murugadoss","Keerthi Suresh",2,4.0000
+"A.R. Murugadoss","Pala Karuppaiah",2,4.0000
+"A.R. Murugadoss","Radha Ravi",2,4.0000
+"A.R. Murugadoss","Varalakshmi Sarathkumar",2,4.0000
+"A.R. Murugadoss",Vijay,2,4.0000
+"A.R. Murugadoss","Yogi Babu",2,4.0000
+"Amy Schumer","Amy Schumer",2,4.0000
+"Alistair Legrand","Wilmer Calderon",2,4.0000
+"Anthony Giordano","Joe Rogan",2,4.0000
+"Anurag Kashyap","Radhika Apte",2,4.0000
+"Alex Lehmann","Mark Duplass",2,4.0000
+"Álex de la Iglesia","Mario Casas",2,4.0000
+"Álex de la Iglesia","Jaime Ordoñez",2,4.0000
+"Álex de la Iglesia","Carmen Machi",2,4.0000
+"Álex de la Iglesia","Blanca Suárez",2,4.0000
+"Banjong Pisanthanakun","Nattapong Chartpong",2,4.0000
+"Aditya Kripalani","Chitrangada Chakraborty",2,4.0000
+"Aditya Kripalani","Kritika Pande",2,4.0000
+"Anggy Umbara","Verdi Solaiman",2,4.0000
+"Akiva Schaffer","Akiva Schaffer",2,4.0000
+"Akiva Schaffer","Maya Rudolph",2,4.0000
+"Timo Tjahjanto","Chelsea Islan",2,4.0000
+"Timo Tjahjanto","Iko Uwais",2,4.0000
+"Timo Tjahjanto","Julie Estelle",2,4.0000
+"Timo Tjahjanto","Sunny Pang",2,4.0000
+"Timo Tjahjanto","Zack Lee",2,4.0000
+"Timothy Woodward Jr.","Danny Trejo",2,4.0000
+"Timothy Woodward Jr.","Trace Adkins",2,4.0000
+"Toshiyuki Kubooka","Kenta Miyake",2,4.0000
+"Toshiyuki Kubooka","Rikiya Koyama",2,4.0000
+"Ulises Valencia","Franco Escamilla",2,4.0000
+"Vishal Bhardwaj","Priyanka Chopra",2,4.0000
+"Vishal Bhardwaj","Irrfan Khan",2,4.0000
+"Jesse V. Johnson","Vladimir Kulich",2,4.0000
+"Johnnie To","Lo Hoi-pang",2,4.0000
+"Jay Karas","Tom Segura",2,4.0000
+"Jay Karas","Demetri Martin",2,4.0000
+"Jay Karas","Ali Wong",2,4.0000
+"Jay Chapman","D.L. Hughley",2,4.0000
+"Jan Suter","Ricardo O'Farrill",2,4.0000
+"Christopher Nolen","Simeon Henderson",2,4.0000
+"Christopher Storer","Bo Burnham",2,4.0000
+"Chris Bould","Bill Hicks",2,4.0000
+"Cristina Jacob","Alex Calin",2,4.0000
+"Cristina Jacob","Crina Semciuc",2,4.0000
+"Cristina Jacob","Flavia Hojda",2,4.0000
+"Cristina Jacob","Levent Sali",2,4.0000
+"Cristina Jacob","Olimpia Melinte",2,4.0000
+"Cristina Jacob","Vlad Logigan",2,4.0000
+"Bill D'Elia","Chris D'Elia",2,4.0000
+"Cem Yılmaz","Zafer Algöz",2,4.0000
+"Cem Yılmaz","Mazhar Alanson",2,4.0000
+"Bo Burnham","Bo Burnham",2,4.0000
+"Dante Lam","Zhang Hanyu",2,4.0000
+"Qaushiq Mukherjee","Tanmay Dhanania",2,4.0000
+"Rakeysh Omprakash Mehra","Anjali Patil",2,4.0000
+"Raúl Campos","Carlos Ballarta",2,4.0000
+"Raúl Campos","Ricardo O'Farrill",2,4.0000
+"Poj Arnon","Kachapa Toncharoen",2,4.0000
+"Poj Arnon","Arisara Thongborisut",2,4.0000
+"Ricky Gervais","Ricky Gervais",2,4.0000
+"Rocky Soraya","Bianca Hello",2,4.0000
+"Rocky Soraya","Denny Sumargo",2,4.0000
+"Rocky Soraya","Herjunot Ali",2,4.0000
+"Rocky Soraya","Jeremy Thomas",2,4.0000
+"Rocky Soraya","Jessica Mila",2,4.0000
+"Rocky Soraya","Shofia Shireen",2,4.0000
+"Lance Bangs","Jen Kirkman",2,4.0000
+"Madhur Bhandarkar","Mugdha Godse",2,4.0000
+"Mahesh Manjrekar","Sachin Khedekar",2,4.0000
+"Mar Targarona","Macarena Gómez",2,4.0000
+"Marcelo Galvão","Deto Montenegro",2,4.0000
+"Marcus Raboy","Vir Das",2,4.0000
+"Sameh Abdulaziz","Ahmed Fathy",2,4.0000
+"Sang-ho Yeon","Yu-mi Jung",2,4.0000
+"Shannon Hartman","Jo Koy",2,4.0000
+"Seth Barrish","Mike Birbiglia",2,4.0000
+"Steve Paley","Iliza Shlesinger",2,4.0000
+"Stephen Chow","Stephen Chow",2,3.5000
+"Ian MacNaughton","Carol Cleveland",2,3.5000
+"Ian MacNaughton","Eric Idle",2,3.5000
+"Ian MacNaughton","Graham Chapman",2,3.5000
+"Ian MacNaughton","John Cleese",2,3.5000
+"Ian MacNaughton","Michael Palin",2,3.5000
+"Ian MacNaughton","Terry Gilliam",2,3.5000
+"Ian MacNaughton","Terry Jones",2,3.5000
+"Osgood Perkins","Lucy Boynton",2,3.5000
+"Chia-Liang Liu","Kara Hui",2,3.5000
+"Riri Riza","Nicholas Saputra",2,3.5000
+Priyadarshan,"Om Puri",2,3.0000
+Priyadarshan,"Manoj Joshi",2,3.0000
+Priyadarshan,Asrani,2,3.0000
+"Raditya Dika","Raditya Dika",2,3.0000
+"Rajiv Mehra","Amrit Pal",2,3.0000
+"Rajkumar Santoshi","Danny Denzongpa",2,3.0000
+"Richard Bailey","Abby Trott",2,3.0000
+"Richard Bailey","Brianna Plantano",2,3.0000
+"Richard Bailey","Cassandra Morris",2,3.0000
+"Richard Bailey","Kate Murphy",2,3.0000
+"Riri Riza","Lukman Sardi",2,3.0000
+"Rohit Jugraj","Diljit Dosanjh",2,3.0000
+"Rohit Jugraj","Jaswinder Bhalla",2,3.0000
+"Ibrahim Bin Mohamed","Ali Almarzouqi",2,3.0000
+"Jacob Joice","Alessandro Juliani",2,3.0000
+"Jacob Joice","Andrea Libman",2,3.0000
+"Jacob Joice","Britt McKillip",2,3.0000
+"Jacob Joice","Diana Kaarina",2,3.0000
+"Jacob Joice","Elyse Maloway",2,3.0000
+"Jacob Joice","Erin Mathews",2,3.0000
+"Jacob Joice","Gigi Saul Guerrero",2,3.0000
+"Jacob Joice","Ian James Corlett",2,3.0000
+"Jacob Joice","Kathleen Barr",2,3.0000
+"Jacob Joice","Nicole Anthony",2,3.0000
+"Jacob Joice","Vincent Tong",2,3.0000
+"Johnnie To","Daniel Wu",2,3.0000
+"Jayson Thiessen","Tara Strong",2,3.0000
+"Jayson Thiessen","Tabitha St. Germain",2,3.0000
+"Jayson Thiessen","Rebecca Shoichet",2,3.0000
+"Jayson Thiessen","Cathy Weseluck",2,3.0000
+"Jayson Thiessen","Ashleigh Ball",2,3.0000
+"Jayson Thiessen","Andrea Libman",2,3.0000
+Sachin,"Ashok Saraf",2,3.0000
+Sachin,Sachin,2,3.0000
+"Steve Ball","Alessandro Juliani",2,3.0000
+"Steve Ball","Andrea Libman",2,3.0000
+"Steve Ball","Britt McKillip",2,3.0000
+"Steve Ball","Diana Kaarina",2,3.0000
+"Steve Ball","Elyse Maloway",2,3.0000
+"Steve Ball","Erin Mathews",2,3.0000
+"Steve Ball","Gigi Saul Guerrero",2,3.0000
+"Steve Ball","Ian James Corlett",2,3.0000
+"Steve Ball","Kathleen Barr",2,3.0000
+"Steve Ball","Nicole Anthony",2,3.0000
+"Steve Ball","Vincent Tong",2,3.0000
+"Susannah Ward","Samuel West",2,3.0000
+"Sunil Sukthankar","Jyoti Subhash",2,3.0000
+"Sunil Sukthankar","Amruta Subhash",2,3.0000
+"Sundar C.",Santhanam,2,3.0000
+"Sundar C.",Manobala,2,3.0000
+"Sumitra Bhave","Jyoti Subhash",2,3.0000
+"Sumitra Bhave","Amruta Subhash",2,3.0000
+"Subhash Ghai","Supriya Karnik",2,3.0000
+"Subhash Ghai","Alok Nath",2,3.0000
+"Sean Cisterna","Sarah Fisher",2,3.0000
+"Anurag Basu","Ranbir Kapoor",2,3.0000
+"Anurag Basu","Saurabh Shukla",2,3.0000
+"Andrew Lau Wai-Keung","Qi Shu",2,3.0000
+"Baljit Singh Deo","Jaggi Singh",2,3.0000
+"Baljit Singh Deo","Gippy Grewal",2,3.0000
+"Angga Dwimas Sasongko","Rio Dewanto",2,3.0000
+"Angga Dwimas Sasongko","Julie Estelle",2,3.0000
+"Anees Bazmee","Celina Jaitly",2,3.0000
+"Harvey Lowry","Tiffany Fallon",2,3.0000
+"Ezekiel Norton","Shannon Chan-Kent",2,3.0000
+"Detlev Buck","Max von der Groeben",2,3.0000
+"Yılmaz Erdoğan","Fatih Artman",2,3.0000
+"Wong Jing","Maggie Cheung",2,3.0000
+"Wong Jing","Chan Pak-cheung",2,3.0000
+"Umesh Mehra","Prem Chopra",2,3.0000
+"Wenn V. Deramas","Shaina Magdayao",2,3.0000
+"Wenn V. Deramas","Serena Dalrymple",2,3.0000
+"Wenn V. Deramas","Jiro Manio",2,3.0000
+"Wenn V. Deramas","Gloria Diaz",2,3.0000
+"Wenn V. Deramas","Deejay Durano",2,3.0000
+"Wenn V. Deramas","Carlo Aquino",2,3.0000
+"Umesh Shukla","Paresh Rawal",2,3.0000
+"Chito S. Roño","Jhong Hilario",2,3.0000
+"Conrad Helten","Alyssya Swales",2,3.0000
+"Chandrakant Kulkarni","Sachin Khedekar",2,3.0000
+"Chandrakant Kulkarni","Pushkar Shrotri",2,3.0000
+"Cathy Garcia-Molina","Khalil Ramos",2,3.0000
+"David Dhawan","Tapsee Pannu",2,3.0000
+"David Dhawan","Varun Dhawan",2,3.0000
+"Kundan Shah","Preity Zinta",2,3.0000
+"Lekh Tandon","Parveen Choudhary",2,3.0000
+"Lekh Tandon","Rashid Khan",2,3.0000
+"Lekh Tandon","Shammi Kapoor",2,3.0000
+"Lekh Tandon",Vyjayantimala,2,3.0000
+"Kenny Young","Richard Gant",2,3.0000
+"Kenny Young","Brely Evans",2,3.0000
+"Mae Czarina Cruz","Daniel Padilla",2,3.0000
+"Mae Czarina Cruz","Kathryn Bernardo",2,3.0000
+"Kabir Sadanand","Dimple Kapadia",2,3.0000
+"Pankaj Batra","Arya Babbar",2,3.0000
+"Nila Madhab Panda","Harsh Mayar",2,3.0000
+"Neeraj Pandey","Manoj Bajpayee",2,3.0000
+"Michael Goguen","Erica Lindbeck",2,3.0000
+"Maryo J. De los Reyes","Angelica Panganiban",2,2.5000
+"Niyi Akinmolayan","Somkele Iyamah",2,2.5000
+"Niyi Akinmolayan","Adesua Etomi",2,2.5000
+"Nishikant Kamat","Irrfan Khan",2,2.5000
+"Neeraj Pandey","Naseeruddin Shah",2,2.5000
+"Matías Gueilburt","Paco Ignacio Taibo II",2,2.5000
+"Mohamed Hamdy","Hassan Abdulfattah",2,2.5000
+"Mohamed Hamdy","Ayten Amer",2,2.5000
+"Mikhail Red","Mary Joy Apostol",2,2.5000
+McG,"Andrew Bachelor",2,2.5000
+"Esteban Vidal","Juanita Ringeling",2,2.5000
+"Esteban Vidal","Fabrizio Copano",2,2.5000
+"Herman Yau","Lam Suet",2,2.5000
+"Sameh Abdulaziz","Samy Maghawry",2,2.5000
+"Sermiyan Midyat","Mahir İpek",2,2.5000
+"Sermiyan Midyat","Gülhan Tekin",2,2.5000
+"Sermiyan Midyat","Demet Akbağ",2,2.5000
+"Sermiyan Midyat","Burcu Gönder",2,2.5000
+"Sermiyan Midyat","Bülent Çolak",2,2.5000
+"Sudhir Mishra","Yashpal Sharma",2,2.5000
+"Steven Brill","Adam Sandler",2,2.5000
+"Steven Brill","Nick Swardson",2,2.5000
+"R. Ellis Frazier","Eddie J. Fernandez",2,2.5000
+"R. Ellis Frazier","Luis Gatica",2,2.5000
+"Raj Kumar Gupta","Rajesh Sharma",2,2.5000
+"Raj Kumar Gupta","Vidya Balan",2,2.5000
+"Rakeysh Omprakash Mehra","Atul Kulkarni",2,2.5000
+"Rakeysh Omprakash Mehra","Waheeda Rehman",2,2.5000
+"Prakash Jha","Manoj Bajpayee",2,2.5000
+"Prakash Jha","Arjun Rampal",2,2.5000
+"Prakash Jha","Ajay Devgn",2,2.5000
+"Poj Arnon","Waraphat Phatsathit",2,2.5000
+"Ismail Farouk","Mohamed Ramadan",2,2.5000
+"Johnnie To","Raymond Wong Ho-Yin",2,2.5000
+"Johnnie To","Paul Chun",2,2.5000
+"Javier Ruiz Caldera","Alexandra Jiménez",2,2.5000
+"Amitoj Mann","Harbhajan Mann",2,2.5000
+"Amitoj Mann","Anita Meet",2,2.5000
+"Anurag Kashyap","Nawazuddin Siddiqui",2,2.5000
+"Kunle Afolayan","Femi Adebayo",2,2.5000
+"Kunle Afolayan","Ademola Adedoyin",2,2.5000
+"Kıvanç Baruönü","Erkan Can",2,2.5000
+"Luc Vinciguerra","Benoît Allemane",2,2.5000
+"Luc Vinciguerra","Nathan Simony",2,2.5000
+"Luv Ranjan","Ishita Raj",2,2.5000
+"Luv Ranjan","Kartik Aaryan",2,2.5000
+"Luv Ranjan","Nushrat Bharucha",2,2.5000
+"Luv Ranjan","Sonalli Sehgall",2,2.5000
+"Mahmoud Karim","Mohammed Tharwat",2,2.5000
+"Kemi Adetiba","Sola Sobowale",2,2.5000
+"Kemi Adetiba","Adesua Etomi",2,2.5000
+"Mani Ratnam","Abhishek Bachchan",2,2.5000
+"Toka McBaror","Segun Arinze",2,2.5000
+"Will Yapp","Terry Jones",2,2.5000
+"Will Yapp","Terry Gilliam",2,2.5000
+"Will Yapp","Michael Palin",2,2.5000
+"Will Yapp","John Cleese",2,2.5000
+"Will Yapp","Graham Chapman",2,2.5000
+"Will Yapp","Eric Idle",2,2.5000
+"Umesh Mehra","Amrit Pal",2,2.5000
+"Umesh Mehra",Rekha,2,2.5000
+"Chris Stokes","Valarie Pettiford",2,2.5000
+"Conrad Helten","Shannon Chan-Kent",2,2.5000
+"David Paul Meyer","Trevor Noah",2,2.5000
+"Cathy Garcia-Molina","Enrique Gil",2,2.5000
+"Clay Glen","Kelli Berglund",2,2.0000
+"Mae Czarina Cruz","Dennis Padilla",2,1.5000
+"Kunle Afolayan","Wale Ojo",2,1.0000
+"Kundan Shah","Anjan Srivastav",2,1.0000
+"Kobun Shizuno","Reina Ueda",2,1.0000
+"Kobun Shizuno","Ari Ozawa",2,1.0000
+"Kıvanç Baruönü","Murat Yıldırım",2,1.0000
+"Kıvanç Baruönü","Gülenay Kalkan",2,1.0000
+"Khaled Marei","Yasser El Tobgy",2,1.0000
+"Khaled Marei","Ahmed Helmy",2,1.0000
+"Ketan Mehta","Tom Alter",2,1.0000
+"Manny Rodriguez","Gabriel Iglesias",2,1.0000
+"Karthik Subbaraj","Vijay Sethupathi",2,1.0000
+"Karthik Subbaraj","Trisha Krishnan",2,1.0000
+"Karthik Subbaraj",Simran,2,1.0000
+"Karthik Subbaraj",Rajnikanth,2,1.0000
+"Karthik Subbaraj","Nawazuddin Siddiqui",2,1.0000
+"Karthik Subbaraj","M. Sasikumar",2,1.0000
+"Ismail Farouk","Ayten Amer",2,1.0000
+"Johnnie To","Ruby Wong",2,1.0000
+"Johnnie To","Lau Ching Wan",2,1.0000
+"Johnnie To","Carman Lee",2,1.0000
+"Shin Won-ho","Sung Dong-il",2,1.0000
+"Ted Emery","Peter Rowsthorn",2,1.0000
+"Ted Emery","Magda Szubanski",2,1.0000
+"Ted Emery","Jane Turner",2,1.0000
+"Ted Emery","Glenn Robbins",2,1.0000
+"Ted Emery","Gina Riley",2,1.0000
+"Shin Won-ho","Lee Il-hwa",2,1.0000
+"Sangeeth Sivan","Anupam Kher",2,1.0000
+"Sudesh Manjrekar","Ankush Chaudhari",2,1.0000
+"Subhash Ghai","Jackie Shroff",2,1.0000
+"Parambrata Chatterjee","Gargi Roychowdhury",2,1.0000
+"Niyi Akinmolayan","Patience Ozokwor",2,1.0000
+"Masahiko Murata","Kazuhiko Inoue",2,1.0000
+"Masahiko Murata","Rikiya Koyama",2,1.0000
+"Masahiko Murata","Satoshi Hino",2,1.0000
+"Mastan Alibhai Burmawalla","Anil Kapoor",2,1.0000
+"Mastan Alibhai Burmawalla","Bipasha Basu",2,1.0000
+"Mastan Alibhai Burmawalla","Saif Ali Khan",2,1.0000
+"Nia Dinata","Tora Sudiro",2,1.0000
+"Nia Dinata","Surya Saputra",2,1.0000
+"Nia Dinata","Cut Mini Theo",2,1.0000
+"Mez Tharatorn","Preechaya Pongthananikorn",2,1.0000
+"Mez Tharatorn","Puttachat Pongsuchat",2,1.0000
+"Michael Tiddes","Marlon Wayans",2,1.0000
+"Hideaki Anno","Koichi Yamadera",2,1.0000
+"Gajendra Ahire","Nina Kulkarni",2,1.0000
+"Farah Khan","Deepika Padukone",2,1.0000
+"Farah Khan","Boman Irani",2,1.0000
+"Hanung Bramantyo","Reza Rahadian",2,1.0000
+"Hanung Bramantyo","Fedi Nuril",2,1.0000
+"Hideaki Anno","Akira Ishida",2,1.0000
+"Hideaki Anno","Fumihiko Tachiki",2,1.0000
+"Hideaki Anno","Hiro Yuki",2,1.0000
+"Hideaki Anno","Kotono Mitsuishi",2,1.0000
+"Hideaki Anno","Megumi Hayashibara",2,1.0000
+"Hideaki Anno","Megumi Ogata",2,1.0000
+"Hideaki Anno","Miki Nagasawa",2,1.0000
+"Hideaki Anno","Motomu Kiyokawa",2,1.0000
+"Hideaki Anno",Mugihito,2,1.0000
+"Hideaki Anno","Takehito Koyasu",2,1.0000
+"Hideaki Anno","Yuko Miyamura",2,1.0000
+"Hideaki Anno","Yuriko Yamaguchi",2,1.0000
+"Hani Hamdi","Nermin Maher",2,1.0000
+"Hani Hamdi","Mahmood El-Laithi",2,1.0000
+"Hiroyuki Seshita","Ari Ozawa",2,1.0000
+"Hiroyuki Seshita","Reina Ueda",2,1.0000
+"Dibakar Banerjee","Ranvir Shorey",2,1.0000
+"Dibakar Banerjee","Abhay Deol",2,1.0000
+"Hajime Kamegaki","Showtaro Morikubo",2,1.0000
+"Hajime Kamegaki","Kazuhiko Inoue",2,1.0000
+"Hajime Kamegaki","Junko Takeuchi",2,1.0000
+"Hajime Kamegaki","Chie Nakamura",2,1.0000
+Priyadarshan,"Paresh Rawal",2,1.0000
+"Rajiv Mehra","Deven Verma",2,1.0000
+"Rajiv Mehra","Rakesh Bedi",2,1.0000
+"Rajiv Mehra","Shah Rukh Khan",2,1.0000
+"Rajiv Mehra","Shammi Kapoor",2,1.0000
+"Rajiv Mehra","Tinnu Anand",2,1.0000
+"Rajiv Menon","Aparna Balamurali",2,1.0000
+"Rajiv Menon",Divyadarshini,2,1.0000
+"Rajiv Menon","G.V. Prakash Kumar",2,1.0000
+"Rajiv Menon",Kumaravel,2,1.0000
+"Rajiv Menon","Nedumudi Venu",2,1.0000
+"Rajiv Menon","Ravi Prakash",2,1.0000
+"Rajiv Menon",Sumesh,2,1.0000
+"Rajiv Menon",Vineeth,2,1.0000
+"Remo D'Souza","Dharmesh Yelande",2,1.0000
+"Remo D'Souza","Kay Kay Menon",2,1.0000
+"Remo D'Souza","Lauren Gottlieb",2,1.0000
+"Remo D'Souza","Prabhu Deva",2,1.0000
+"Remo D'Souza","Punit Pathak",2,1.0000
+"Remo D'Souza","Shraddha Kapoor",2,1.0000
+"Rohit Jugraj","Mandy Takhar",2,1.0000
+"Rohit Shetty","Mukesh Tiwari",2,1.0000
+"Rohit Shetty","Shah Rukh Khan",2,1.0000
+"Cathy Garcia-Molina","Bea Alonzo",2,1.0000
+"David Batty","Karima Gouit",2,1.0000
+"David Batty","Mohamed El Korchi",2,1.0000
+"David Batty","Ramdane Aala",2,1.0000
+"Burak Aksak","Tarık Ünlüoğlu",2,1.0000
+"Burak Aksak","Erdal Tosun",2,1.0000
+"Burak Aksak","Cihan Ercan",2,1.0000
+"Burak Aksak","Cengiz Bozkurt",2,1.0000
+"Burak Aksak","Berat Yenilmez",2,1.0000
+"Amitoj Mann","Sonia Mann",2,1.0000
