@@ -1,0 +1,8 @@
+.DS_Store
+*.sql.gz
+*.dump
+*.log
+data/netflix.db
+data/processed/
+__pycache__/
+.venv/
